@@ -7,7 +7,7 @@
 4. [Upload a folder in Github](#upload-a-folder-to-github-using-codes)
 5. [Readme.md Tutorial and Own Readme.md Profiles](#readmemd-tutorial)
 6. [Github Desktop Tutorial](#github-desktop-tutorial)
-7. [Github Branching](#github-branching)
+7. [Git Branching](#gith-branching)
 8. [Github with Vs Code](#github-with-vs-code)
 
 # Install this first
@@ -58,7 +58,7 @@
   * [Basics , Create repositories and Branching](https://www.youtube.com/watch?v=RPagOAUx2SQ&list=PLcL8q_TiioW0JLk03hM3cu_Nb5DRwBHa1&index=2&t=107s)
   * [Draging , Clone and Advance](https://www.youtube.com/watch?v=GOY9wMyr7pU&list=PLcL8q_TiioW0JLk03hM3cu_Nb5DRwBHa1&index=2)
 
-# Github Branching
+# Gith Branching
 
 * **Youtube Links**
   * [Basics](https://www.youtube.com/watch?v=FegJzEFXdk8&list=PLcL8q_TiioW0JLk03hM3cu_Nb5DRwBHa1&index=17)
