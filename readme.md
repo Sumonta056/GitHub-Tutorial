@@ -9,6 +9,7 @@
 6. [Github Desktop Tutorial](#github-desktop-tutorial)
 7. [Git Branching](#gith-branching)
 8. [Github with Vs Code](#github-with-vs-code)
+9. [Github with Anroid Studio](#github-with-anroid-studio)
 
 # Install this first
 
@@ -67,7 +68,7 @@
 
 * [Youtube Link](https://www.youtube.com/watch?v=rmuAKOlWMjA&list=PLcL8q_TiioW0JLk03hM3cu_Nb5DRwBHa1&index=11)
 
-# Github with anroid studio
+# Github with Anroid studio
 
 * [Upload a project](https://www.youtube.com/watch?v=GhfJTOu3_SE)
 * [Everything tutorial](https://youtube.com/playlist?list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS)
@@ -76,4 +77,3 @@
   * How to clone or merge
   * Advance tips
 
-  
