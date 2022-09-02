@@ -62,7 +62,10 @@
 # Gith Branching
 
 * **Youtube Links**
-  * [Basics](https://www.youtube.com/watch?v=FegJzEFXdk8&list=PLcL8q_TiioW0JLk03hM3cu_Nb5DRwBHa1&index=17)
+  * [What is Branching and How works](https://youtu.be/BcFoLD6acOM?t=114)
+  * [Basic Branching](https://www.youtube.com/watch?v=QV0kVNvkMxc)
+  * [Using VSCode Terminal](https://youtu.be/Lf3DYRvCPFo?t=79)
+  * [Using Github Desktop](https://www.youtube.com/watch?v=FegJzEFXdk8&list=PLcL8q_TiioW0JLk03hM3cu_Nb5DRwBHa1&index=17)
 
 # Github with VS Code
 
@@ -77,3 +80,7 @@
   * How to clone or merge
   * Advance tips
 
+# Pull request
+
+* First Learn Branching ([Link](#gith-branching))
+* What is pull request ([Link](https://www.youtube.com/watch?v=For9VtrQx58))
