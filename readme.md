@@ -1,10 +1,14 @@
 
 # Content
 
-1. [Install this first](#install-this-first)
-2. [First time git installation configurations](#first-time-git-installation-configurations)
-3. [Upload a folder in Github](#upload-a-folder-to-github-using-codes)
-4. [Readme.md Tutorial and Own Readme.md Profiles](#readmemd-tutorial)
+1. [What is Git and why needed](https://www.w3schools.com/git/git_intro.asp?remote=github)
+2. [Install this first](#install-this-first)
+3. [First time git installation configurations](#first-time-git-installation-configurations)
+4. [Upload a folder in Github](#upload-a-folder-to-github-using-codes)
+5. [Readme.md Tutorial and Own Readme.md Profiles](#readmemd-tutorial)
+6. [Github Desktop Tutorial](#github-desktop-tutorial)
+7. [Github Branching](#github-branching)
+8. [Github with Vs Code](#github-with-vs-code)
 
 # Install this first
 
@@ -48,6 +52,17 @@
   * [Samples Readme Profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
   * [Profile Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
 
+# Github Desktop Tutorial
+
+* **Youtube Links**
+  * [Basics , Create repositories and Branching](https://www.youtube.com/watch?v=RPagOAUx2SQ&list=PLcL8q_TiioW0JLk03hM3cu_Nb5DRwBHa1&index=2&t=107s)
+  * [Draging , Clone and Advance](https://www.youtube.com/watch?v=GOY9wMyr7pU&list=PLcL8q_TiioW0JLk03hM3cu_Nb5DRwBHa1&index=2)
+
 # Github Branching
 
-*
+* **Youtube Links**
+  * [Basics](https://www.youtube.com/watch?v=FegJzEFXdk8&list=PLcL8q_TiioW0JLk03hM3cu_Nb5DRwBHa1&index=17)
+
+# Github with VS Code
+
+* [Youtube Link](https://www.youtube.com/watch?v=rmuAKOlWMjA&list=PLcL8q_TiioW0JLk03hM3cu_Nb5DRwBHa1&index=11)
