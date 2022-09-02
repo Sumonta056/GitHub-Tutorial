@@ -11,6 +11,7 @@
 8. [Github Pull Request](#pull-request)
 9. [Github with Vs Code](#github-with-vs-code)
 10. [Github with Anroid Studio](#github-with-anroid-studio)
+11. [Collaboration with Others](#collaboration-with-others)
 
 # Install this first
 
@@ -90,3 +91,7 @@
   * [Branching and pull request](https://www.youtube.com/watch?v=inPYMFPdzRA)
 * [Pull request on Own Branch](https://www.youtube.com/watch?v=inPYMFPdzRA)
 * [Pull request on Open Source Projects](https://www.youtube.com/watch?v=8A4TsoXJOs8)
+
+# Collaboration with Others 
+
+* [How to give permissions to other in your repository](https://www.youtube.com/watch?v=nS9QbJt4KaQ)
