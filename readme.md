@@ -12,6 +12,7 @@
 9. [Github with Vs Code](#github-with-vs-code)
 10. [Github with Anroid Studio](#github-with-anroid-studio)
 11. [Collaboration with Others](#collaboration-with-others)
+12. [Complete Bangla Tutorial](#bangla-complete-github-course)
 
 # Install this first
 
@@ -95,3 +96,7 @@
 # Collaboration with Others 
 
 * [How to give permissions to other in your repository](https://www.youtube.com/watch?v=nS9QbJt4KaQ)
+
+# Bangla Complete Github Course
+
+* **[Link](https://www.youtube.com/watch?v=8A4TsoXJOs8)**
