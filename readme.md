@@ -8,8 +8,9 @@
 5. [Readme.md Tutorial and Own Readme.md Profiles](#readmemd-tutorial)
 6. [Github Desktop Tutorial](#github-desktop-tutorial)
 7. [Git Branching](#gith-branching)
-8. [Github with Vs Code](#github-with-vs-code)
-9. [Github with Anroid Studio](#github-with-anroid-studio)
+8. [Github Pull Request](#pull-request)
+9. [Github with Vs Code](#github-with-vs-code)
+10. [Github with Anroid Studio](#github-with-anroid-studio)
 
 # Install this first
 
@@ -84,3 +85,6 @@
 
 * First Learn Branching ([Link](#gith-branching))
 * What is pull request ([Link](https://www.youtube.com/watch?v=For9VtrQx58))
+* How to pull request on another person repositories
+  * [Using forking and pull request](https://www.youtube.com/watch?v=a_FLqX3vGR4)
+* [Pull request on Open Source Projects](https://www.youtube.com/watch?v=8A4TsoXJOs8)
