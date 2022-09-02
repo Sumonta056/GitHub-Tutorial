@@ -66,3 +66,14 @@
 # Github with VS Code
 
 * [Youtube Link](https://www.youtube.com/watch?v=rmuAKOlWMjA&list=PLcL8q_TiioW0JLk03hM3cu_Nb5DRwBHa1&index=11)
+
+# Github with anroid studio
+
+* [Upload a project](https://www.youtube.com/watch?v=GhfJTOu3_SE)
+* [Everything tutorial](https://youtube.com/playlist?list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS)
+  * How to upload
+  * How to branch
+  * How to clone or merge
+  * Advance tips
+
+  
