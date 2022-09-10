@@ -54,7 +54,9 @@
 * Create own profile README.md file
   * [Tutorial Link](https://www.youtube.com/watch?v=KhGWbt1dAKQ)
   * [Samples Readme Profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-  * [Profile Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+  * [Profile Generator 1](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+  * [Profile Generator 2](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+  * [Profile Generator 3](https://profile-readme-generator.com/)
 
 # Github Desktop Tutorial
 
