@@ -50,6 +50,8 @@
 * Create readme.md file  
   * git add README.md
 * (.md file) Learning tutorial ([Link](https://agea.github.io/tutorial.md/))
+* (.md file) Easy Tutorial ([Link](https://www.markdownguide.org/basic-syntax/))
+* Learn with practice test ([Link](https://www.markdowntutorial.com/))
 * Rules of .md files ([Link](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md))
 * Create own profile README.md file
   * [Tutorial Link](https://www.youtube.com/watch?v=KhGWbt1dAKQ)
