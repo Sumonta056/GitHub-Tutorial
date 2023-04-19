@@ -1,49 +1,51 @@
 
 # Content
 
-1. [What is Git and why needed](https://www.w3schools.com/git/git_intro.asp?remote=github)
-2. [Install this first](#install-this-first)
-3. [First time git installation configurations](#first-time-git-installation-configurations)
-4. [Upload a folder in Github](#upload-a-folder-to-github-using-codes)
-5. [Readme.md Tutorial and Own Readme.md Profiles](#readmemd-tutorial)
-6. [Github Desktop Tutorial](#github-desktop-tutorial)
-7. [Git Branching](#gith-branching)
-8. [Github Pull Request](#pull-request)
-9. [Github with Vs Code](#github-with-vs-code)
-10. [Github with Anroid Studio](#github-with-anroid-studio)
-11. [Collaboration with Others](#collaboration-with-others)
-12. [Complete Bangla Tutorial](#bangla-complete-github-course)
+1. [Installing Git & GitHub Desktop](#installation)
+2. [Setting up Git Environment](#setting-up-git-environment)
+3. [Upload a folder in Github](#upload-a-filefolder-to-github)
+4. [Readme.md Tutorial and Own Readme.md Profiles](#readmemd-tutorial)
+5. [Github Desktop Tutorial](#github-desktop-tutorial)
+6. [Git Branching](#gith-branching)
+7. [Github Pull Request](#pull-request)
+8. [Github with Vs Code](#github-with-vs-code)
+9. [Github with Anroid Studio](#github-with-anroid-studio)
+10. [Collaboration with Others](#collaboration-with-others)
+11. [Complete Bangla Tutorial](#bangla-complete-github-course)
 
-# Install this first
+# Installation
 
-* Git ([Download](https://git-scm.com/downloads))
-* GitHub Desktop ([Download](https://desktop.github.com/))
+* Git (**[Download](https://git-scm.com/downloads)**)
+* GitHub Desktop (**[Download](https://desktop.github.com/)**)
 
-# First time git installation configurations
+# Setting up Git Environment
 
-**([Youtube Link](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+Vedio Tutorial : **([Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
 
 1. Open Git Bash
-2. Do this things
-    * Set Name :  git config --global user.name "Gihub User Name"
-    * Set Email : git config --global user.email "Github Email"
-    * Check status : git config --list
+2. Write The Following Commands
 
-# Upload a folder to Github using codes
+    * **Set Name** :  ``` git config --global user.name "Gihub User Name" ```
+    * **Set Email** : ``` git config --global user.email "Github Email" ```
+    * **Check status** :  ``` git config --list ```
+3. Setting Done Successfully
 
-**([Youtube Link](https://www.youtube.com/watch?v=f-mUqIGa48s))**
+# Upload a file/folder to Github
 
-* **First create a Repository**
-* **Select a folder in your pc**
-* **Open Gitbash for that folder**
-    1. right click folder and open git bash Here
-    2. git init
-    3. git add .
-    4. git commit -m "Commits Names"
-    5. git branch -M main  
-    6. git remote add origin " Git Repository Link"
-    7. git push -u origin main
-    8. git push origin master --force  [Note : (if 7 not works)]
+Vedio Tutorial : **([Click Here](https://www.youtube.com/watch?v=eGaImwD8fPQ))**
+
+1. First **Create a repository** in Github : **([How To Create Repository](https://www.youtube.com/watch?v=u-_uGO95xco))**
+2. Select the folder that you want to upload
+3. Open Gitbash for that folder ( Right click on the folder and open git bash)
+4. Now write the following Code in **Gitbash terminal**
+     ```git init```
+     ```git add .```
+     ```git commit -m "Commits Names"```
+     ```git branch -M main```
+     ```git remote add origin " Git Repository Link"```
+     ```git push -u origin main```
+5. **Use this if the above code not works**
+    ```git push origin master --force```  
 
 # Readme.md Tutorial
 
