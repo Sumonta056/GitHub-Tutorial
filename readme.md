@@ -104,11 +104,9 @@ Vedio Tutorial : **([Click Here](https://www.youtube.com/watch?v=eGaImwD8fPQ))**
 
 * [How to give permissions to other in your repository](https://www.youtube.com/watch?v=nS9QbJt4KaQ)
 
-# Bangla Complete Github Course
+# Git Server Connection Error : Fixed
 
-* **[Link](https://www.youtube.com/watch?v=8A4TsoXJOs8)**
-
-# GitHub Server Connection Error
-### Failed to connect to github.com port 443: Connection timed out" when pushing to remote repository
--  git config --global http.proxy
-- git config --global --unset https.proxy
+* Problem : **"Failed to connect to github.com port 443: Connection timed out"** when pushing to remote repository
+* **Solution** :  Write the following command into GitBash
+  * ```git config --global http.proxy```
+  * ```git config --global --unset https.proxy```
