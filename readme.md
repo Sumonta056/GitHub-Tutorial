@@ -38,14 +38,14 @@ Vedio Tutorial : **([Click Here](https://www.youtube.com/watch?v=eGaImwD8fPQ))**
 2. Select the folder that you want to upload
 3. Open Gitbash for that folder ( Right click on the folder and open git bash)
 4. Now write the following Code in **Gitbash terminal**
-     ```git init```
-     ```git add .```
-     ```git commit -m "Commits Names"```
-     ```git branch -M main```
-     ```git remote add origin " Git Repository Link"```
-     ```git push -u origin main```
+    * ```git init```
+    * ```git add .```
+    * ```git commit -m "Commits Names"```
+    * ```git branch -M main```
+    * ```git remote add origin " Git Repository Link"```
+    * ```git push -u origin main```
 5. **Use this if the above code not works**
-    ```git push origin master --force```  
+    * ```git push origin master --force```  
 
 # Readme.md Tutorial
 
