@@ -105,3 +105,8 @@
 # Bangla Complete Github Course
 
 * **[Link](https://www.youtube.com/watch?v=8A4TsoXJOs8)**
+
+# GitHub Server Connection Error
+### Failed to connect to github.com port 443: Connection timed out" when pushing to remote repository
+-  git config --global http.proxy
+- git config --global --unset https.proxy
