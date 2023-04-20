@@ -4,10 +4,6 @@
 1. [Installing and Creating Git & GitHub Account](#installation)
 2. [Setting up Git Environment](#setting-up-git-environment)
 3. [Upload a folder in Github](#upload-a-filefolder-to-github)
-4. [Clone a repository](#clone-a-git-repository-and-push-a-file-to-that-repository)
-5. [Push a file into cloned repository](#clone-a-git-repository-and-push-a-file-to-that-repository)
-
-<hr>
 
 # Installation
 
@@ -15,8 +11,6 @@
 * Git (**[Download](https://git-scm.com/downloads)**)
 * How to **install Git** Step by Step (**[Tutorial Link](https://phoenixnap.com/kb/how-to-install-git-windows#ftoc-heading-1)**)
 * GitHub Desktop (**[Download](https://desktop.github.com/)**)
-
-<hr>
 
 # Setting up Git Environment
 
@@ -29,8 +23,6 @@ Vedio Tutorial : **([Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
     * **Set Email** : ``` git config --global user.email "Github Email" ```
     * **Check status** :  ``` git config --list ```
 3. Setting Done Successfully
-
-<hr>
 
 # Upload a file/folder to Github
 
@@ -50,7 +42,69 @@ Blog Guide Step by Step : **([Click Here](https://phoenixnap.com/kb/how-to-use-g
 5. **Use this if the above code not works**
     * ```git push origin master --force```  
 
-<hr>
+# Readme.md Tutorial
+
+* Create readme.md file  
+  * git add README.md
+* (.md file) Learning tutorial ([Link](https://agea.github.io/tutorial.md/))
+* (.md file) Easy Tutorial ([Link](https://www.markdownguide.org/basic-syntax/))
+* Learn with practice test ([Link](https://www.markdowntutorial.com/))
+* Rules of .md files ([Link](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md))
+* Create own profile README.md file
+  * [Tutorial Link](https://www.youtube.com/watch?v=KhGWbt1dAKQ)
+  * [Samples Readme Profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+  * [Profile Generator 1](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+  * [Profile Generator 2](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+  * [Profile Generator 3](https://profile-readme-generator.com/)
+  * [Profile Generator 4](https://gprm.itsvg.in/)
+
+# Github Desktop Tutorial
+
+* **Youtube Links**
+  * [Basics , Create repositories and Branching](https://www.youtube.com/watch?v=RPagOAUx2SQ&list=PLcL8q_TiioW0JLk03hM3cu_Nb5DRwBHa1&index=2&t=107s)
+  * [Draging , Clone and Advance](https://www.youtube.com/watch?v=GOY9wMyr7pU&list=PLcL8q_TiioW0JLk03hM3cu_Nb5DRwBHa1&index=2)
+
+# Gith Branching
+
+* **Youtube Links**
+  * [What is Branching and How works](https://youtu.be/BcFoLD6acOM?t=114)
+  * [Basic Branching](https://www.youtube.com/watch?v=QV0kVNvkMxc)
+  * [Using VSCode Terminal](https://youtu.be/Lf3DYRvCPFo?t=79)
+  * [Using Github Desktop](https://www.youtube.com/watch?v=FegJzEFXdk8&list=PLcL8q_TiioW0JLk03hM3cu_Nb5DRwBHa1&index=17)
+
+# Github with VS Code
+
+* [Youtube Link](https://www.youtube.com/watch?v=rmuAKOlWMjA&list=PLcL8q_TiioW0JLk03hM3cu_Nb5DRwBHa1&index=11)
+
+# Github with Anroid studio
+
+* [Upload a project](https://www.youtube.com/watch?v=GhfJTOu3_SE)
+* [Everything tutorial](https://youtube.com/playlist?list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS)
+  * How to upload
+  * How to branch
+  * How to clone or merge
+  * Advance tips
+
+# Pull request
+
+* First Learn Branching ([Link](#gith-branching))
+* What is pull request ([Link](https://www.youtube.com/watch?v=For9VtrQx58))
+* How to pull request on another person repositories
+  * [Using forking and pull request](https://www.youtube.com/watch?v=a_FLqX3vGR4)
+  * [Branching and pull request](https://www.youtube.com/watch?v=inPYMFPdzRA)
+* [Pull request on Own Branch](https://www.youtube.com/watch?v=inPYMFPdzRA)
+* [Pull request on Open Source Projects](https://www.youtube.com/watch?v=8A4TsoXJOs8)
+
+# Collaboration with Others
+
+* [How to give permissions to other in your repository](https://www.youtube.com/watch?v=nS9QbJt4KaQ)
+
+# Git Server Connection Error : Fixed
+
+* Problem : **"Failed to connect to github.com port 443: Connection timed out"** when pushing to remote repository
+* **Solution** :  Write the following command into GitBash
+  * ```git config --global http.proxy```
+  * ```git config --global --unset https.proxy```
 
 # Clone a git repository and push a file to that repository
 
@@ -78,5 +132,3 @@ Blog Link Step By Step:  **([Click Here](https://phoenixnap.com/kb/how-to-instal
     * **Code - 7 :**`git commit -m "Commit Name"`
 11. Finally, push the changes to the remote GitHub repository
     * **Code - 8 :**`git push"`
-
-<hr>
