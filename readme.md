@@ -1,11 +1,12 @@
 
 # Content
 
-1. [Installing and Creating Git & GitHub Account](#installation)
-2. [Setting up Git Environment](#setting-up-git-environment)
-3. [Upload a folder in Github](#upload-a-filefolder-to-github)
-4. [Clone a repository](#clone-a-git-repository-and-push-a-file-to-that-repository)
-5. [Push a file into cloned repository](#clone-a-git-repository-and-push-a-file-to-that-repository)
+- [Content](#content)
+- [Installation](#installation)
+- [Setting up Git Environment](#setting-up-git-environment)
+- [Upload a file or folder to Github](#upload-a-filefolder-to-github)
+- [Clone a Git repository](#clone-a-git-repository-and-push-a-file-to-that-repository)
+- [Push a file to remote repository from cloned repository](#clone-a-git-repository-and-push-a-file-to-that-repository)
 
 <hr>
 
@@ -20,7 +21,7 @@
 
 # Setting up Git Environment
 
-Vedio Tutorial : **([Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+#### Vedio Tutorial : **([Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
 
 1. Open Git Bash
 2. Write The Following Commands
@@ -34,8 +35,8 @@ Vedio Tutorial : **([Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
 
 # Upload a file/folder to Github
 
-Vedio Tutorial : **([Click Here](https://www.youtube.com/watch?v=eGaImwD8fPQ))**
-Blog Guide Step by Step : **([Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-2))**
+##### Vedio Tutorial : **([Click Here](https://www.youtube.com/watch?v=eGaImwD8fPQ))**
+##### Blog Guide Step by Step : **([Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-2))**
 
 1. First **Create a repository** in Github : **([How To Create Repository](https://www.youtube.com/watch?v=u-_uGO95xco))**
 2. Select the folder that you want to upload
@@ -48,13 +49,13 @@ Blog Guide Step by Step : **([Click Here](https://phoenixnap.com/kb/how-to-use-g
     * ```git remote add origin " Git Repository Link"```
     * ```git push -u origin main```
 5. **Use this if the above code not works**
-    * ```git push origin master --force```  
+    * ```git push origin master --force```
 
 <hr>
 
 # Clone a git repository and push a file to that repository
 
-Blog Link Step By Step:  **([Click Here](https://phoenixnap.com/kb/how-to-install-git-windows#ftoc-heading-13))**
+#### Blog Link Step By Step:  **([Click Here](https://phoenixnap.com/kb/how-to-install-git-windows#ftoc-heading-13))**
 
 1. Copy the url link of the git repository
 2. Open Git Bash and run the following command
