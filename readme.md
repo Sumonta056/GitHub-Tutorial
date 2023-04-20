@@ -9,6 +9,11 @@
 - [👨‍🔧Track or Unstage a file in local repository](#👨‍🔧-track-an-untracked-file)
 - [🔀 Revert or Undo any commit](#🔀-revert-or-undo-any-commit)
 - [🌳 Git Branching](#🌳-git-branching)
+- [🥷 Git Pull - Fetch - Merge](#🥷-git-pull---fetch---merge)
+    - [🌿 Update a branch from main branch ](#🌿-update-a-branch-from-main-branch)
+    - [🏠 Update a main branch in local repository](#🏠-update-a-main-branch-in-local-repositorye)
+    - [🤞 Git Pull vs Fetch-Merge](#🤞-git-pull-vs-fetch-merge)
+
 
 <hr>
 
@@ -146,6 +151,56 @@
     * **Remote Branch** : `git push origin --delete branch_name`
 7. Check Branch Status
     * **Code - 6 :**`git branch`
+
+<hr>
+
+# 🥷 Git Pull - Fetch - Merge
+## 🌿 Update a branch from main branch 
+
+##### ✍️ Blog Link Step By Step:  **([👉Click Here](https://stackoverflow.com/questions/20101994/how-to-git-pull-from-master-into-the-development-branch))**
+#### 1️⃣ Way - 1 (Fetch-Merge)
+1. Check Branch
+    * **Code - 1 :**`git branch`
+2. Choose the brance you want to update from main branch
+    * **Code - 2 :**`git checkout Branch_Name`
+3. Fetch Orgin or Maser Branch
+    * **Code - 3 :**`git fetch origin`
+3. Merge Orgin or Maser Branch into current branch
+    * **Code - 4 :**`git merge origin`
+
+#### 2️⃣ Way - 2 (Pull)
+1. Check Branch
+    * **Code - 1 :**`git branch`
+2. Choose the brance you want to update from main branch
+    * **Code - 2 :**`git checkout Branch_Name`
+3. Pull from master branch
+    * **Code - 3 :**`git pull origin master`
+
+## 🏠 Update a main branch in local repository
+
+##### ✍️ Blog Link Step By Step:  **([👉Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-18))**
+#### 1️⃣ Way - 1 (Fetch-Merge)
+1. Check Branch
+    * **Code - 1 :**`git branch`
+2. Choose the main brance 
+    * **Code - 2 :**`git checkout main`
+3. Fetch Orgin or Maser Branch
+    * **Code - 3 :**`git fetch `
+3. Merge Orgin or Maser Branch 
+    * **Code - 4 :**`git merge`
+
+#### 2️⃣ Way - 2 (Pull)
+1. Check Branch
+    * **Code - 1 :**`git branch`
+2. Choose the brance  main branch
+    * **Code - 2 :**`git checkout Branch_Name`
+3. Pull from master branch
+    * **Code - 3 :**`git pull`
+    * **Force Pull :**`git pull origin master`
+
+## 🤞 Git Pull vs Fetch-Merge
+
+##### 🎥 Vedio Tutorial : **([👉Click Here](https://www.youtube.com/watch?v=KmagW60Li-o))**
 
 <hr>
 
