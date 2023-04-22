@@ -47,7 +47,7 @@
     🧑‍💻 Setting up Git Environment
 </span></h2>
 
-#### 🎥 Vedio Tutorial : **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
+#### 🎥 Video Tutorial : **([👉Click Here](https://www.youtube.com/watch?v=yDntCIs-IJM))**
 
 1. Open Git Bash
 2. Write The Following Commands
@@ -66,7 +66,7 @@
     ⬆️ Upload a file/folder to Github
 </span></h2>
 
-##### 🎥 Vedio Tutorial : **([👉Click Here](https://www.youtube.com/watch?v=eGaImwD8fPQ))**
+##### 🎥 Video Tutorial : **([👉Click Here](https://www.youtube.com/watch?v=eGaImwD8fPQ))**
 
 ##### ✍️ Blog Guide Step by Step : **([👉Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-2))**
 
@@ -175,7 +175,7 @@
     🌳 Git Branching
 </span></h2>
 
-##### 🎥 Vedio Tutorial : **([👉Click Here](https://www.youtube.com/watch?v=8x7QcF9LG7I))**
+##### 🎥 Video Tutorial : **([👉Click Here](https://www.youtube.com/watch?v=8x7QcF9LG7I))**
 
 ##### ✍️ Blog Guide Step by Step : **([👉Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-10))**
 
@@ -280,7 +280,7 @@
     🤞 Git Pull vs Fetch-Merge
 </span></h4>
 
->##### 🎥 Vedio Tutorial : **([👉Click Here](https://www.youtube.com/watch?v=KmagW60Li-o))**
+##### 🎥 Video Tutorial : **([👉Click Here](https://www.youtube.com/watch?v=KmagW60Li-o))**
 
 <hr>
 
@@ -292,7 +292,7 @@
 
 > #### ✍️ Blog Link Step By Step: **([👉Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-18))**
 >
-> #### 🎥 Vedio Tutorial : **([👉Click Here](https://www.youtube.com/watch?v=jRLGobWwA3Y))**
+> #### 🎥 Video Tutorial : **([👉Click Here](https://www.youtube.com/watch?v=jRLGobWwA3Y))**
 
 1. Create a any file in  local repository
 2. Switch to another or new brance from main branch
