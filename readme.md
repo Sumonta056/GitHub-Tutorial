@@ -291,7 +291,7 @@
 </span></h2>
 
 > #### ✍️ Blog Link Step By Step: **([👉Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-18))**
->
+
 > #### 🎥 Video Tutorial : **([👉Click Here](https://www.youtube.com/watch?v=jRLGobWwA3Y))**
 
 1. Create a any file in  local repository
