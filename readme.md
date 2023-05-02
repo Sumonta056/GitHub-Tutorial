@@ -299,15 +299,17 @@
    - **Code - 1 :**`git checkout -b newbranch`
 3. Check Branch
    - **Code - 2 :**`git branch`
-3. Check files commit status
+4. Check files commit status
    - **Code - 3 :**`git status`
-3. Stage untracked files
+5. Stage untracked files
    - **Code - 4 :**`git add .`
-3. Commit the untracked files
+6. Commit the untracked files
    - **Code - 5 :**`git commit -m "commit name"`
-3. Push to remote repository with new branch
+7. Push to remote repository with new branch
    - **Code - 6 :**`git push origin newbranch`
-3. Now do the following Steps **[👉Click Here](https://www.youtube.com/watch?v=jRLGobWwA3Y)**
+8. Now do the following Steps **[👉Click Here](https://www.youtube.com/watch?v=jRLGobWwA3Y)**
 
 
 <hr>
+
+
