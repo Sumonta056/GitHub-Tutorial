@@ -44,3 +44,17 @@
     - Add fix for dark mode toggle state ❌❌
     - ➕ Add fix for dark mode toggle state  ✅✅
 
+
+#### Convetional Keyword First
+
+- Use a conventional Keyword first : Then explain the commit in detail
+- Convetional Keywords like
+    - feat , fix , chore
+    - update , refactor , remove
+    - docs , style 
+    - test , build , revert
+- NT : if using conventionl keywords **all letters should be small letters**
+- Example :
+    -  fixed bug on landing page ❌❌
+    - ➕ fix: fix bug on landing page  ✅✅
+
