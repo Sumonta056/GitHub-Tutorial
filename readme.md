@@ -74,15 +74,15 @@
 2. Select the folder that you want to upload
 3. Open Gitbash for that folder ( Right click on the folder and open git bash)
 4. Now write the following Code in **Gitbash terminal**
-   - `git init`
-   - `git add .`
-   - `git commit -m "Commits Names"`
-   - `git branch -M main`
-   - `git remote add origin " Git Repository Link"`
-   - `git push -u origin main`
-5. **Use this if the above code not works**
-   - `git push origin master --force`
-
+5. Initialize it with git-specific functions : `git init`
+6. Git isn't aware of these file, stage it : `git add .`
+7. Take a snapshot of the staging area : `git commit -m "Commits Names"`
+8. Select the master branch : `git branch -M main`
+9. Provide the path for the repository you created on github : `git remote add origin " Git Repository Link"`
+10. Push changes to github : `git push -u origin main`
+11. **Use any of this if the above code not works**
+    - `git push origin master --force`
+    - `git push --set-upstream origin main`
 <hr>
 
 ### Tips - 4
