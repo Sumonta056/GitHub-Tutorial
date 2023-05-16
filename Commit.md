@@ -44,6 +44,8 @@
     - Add fix for dark mode toggle state ❌❌
     - ➕ Add fix for dark mode toggle state  ✅✅
 
+`NT : Since emojis use special ASCII codes (not commonly used and supported in the text-based interfaces like CLIs) and Unicode systems and most command-line interfaces need a third-party package or font to handle them, this convention might not look good to everyone. They might face some issues in terms of reading histories and checking the commit messages. (Like the emoji character in the message title might be rendered as its actual ASCII code or unknown question marks)`
+
 
 #### Convetional Keyword First
 
