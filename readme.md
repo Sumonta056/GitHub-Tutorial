@@ -23,6 +23,8 @@
 - **[🕸️ Hosting a website using GitHub Pages](#tips---14)**
 - **[👑 How to write commit message like PRO](#tips---15)**
 - **[🥹 GitHub Related Problems and Solutions](#tips---16)**
+   - **[⚠️ Git Server Connection Error : Fixed](#tips---16)**
+   - **[⛑️ Restore a Deleted Depository](#tips---16)**
 
 
 
@@ -419,5 +421,12 @@
 * 👉 **Solution** :  Write the following command into GitBash
   - ```git config --global http.proxy```
   * ```git config --global --unset https.proxy```
+<hr>
+
+#####  2️⃣ Problem - 2 : Restore a Deleted Repository
+##### 🕵️ Description: Mistakenly deleted an important repository
+* 👉 **Solution** : Blog Link Step By Step **([👉Click Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/restoring-a-deleted-repository))**
 
 <hr>
+
+
