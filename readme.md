@@ -16,14 +16,13 @@
 - **[🔀 Revert or Undo any commit](#tips---7)**
 - **[🌳 Git Branching](#tips---8)**
 - **[🥷 Git Pull - Fetch - Merge](#tips---9)**
-
   - **[🌿 Update a branch from main branch ](#tips---10)**
   - **[🏠 Update a main branch in local repository](#tips---11)**
   - **[🤞 Git Pull vs Fetch-Merge](#tips---12)**
-
 - **[🌚 Create a Pull Request](#tips---13)**
 - **[🕸️ Hosting a website using GitHub Pages](#tips---14)**
 - **[👑 How to write commit message like PRO](#tips---15)**
+- **[🥹 GitHub Related Problems and Solutions](#tips---16)**
 
 
 
@@ -406,5 +405,19 @@
     ❌❌ fixed bug on landing page 
     ✅✅ ➕ Fix: fix bug on landing page  
 ```
+
+<hr>
+
+### Tips - 16
+
+<h2><span style="color:#B8621B;font-weight:700;font-size:30px">
+ 🥹 GitHub Related Problems and Solutions 
+</span></h2>
+
+#####  1️⃣ Problem - 1 : Git Server Connection Error : Fixed
+##### 🕵️ Description: *"Failed to connect to github.com port 443: Connection timed out"* when pushing to remote repository
+* 👉 **Solution** :  Write the following command into GitBash
+  - ```git config --global http.proxy```
+  * ```git config --global --unset https.proxy```
 
 <hr>
