@@ -23,6 +23,7 @@
 
 - **[🌚 Create a Pull Request](#tips---13)**
 - **[🕸️ Hosting a website using GitHub Pages](#tips---14)**
+- **[👑 How to write commit message like PRO](#tips---15)**
 
 
 
@@ -319,18 +320,91 @@
   🕸️ Hosting a website using GitHub
 </span></h2>
 
-#### 1️⃣ What is github pages ? : **([👉Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-18))**
+##### 1️⃣ What is github pages ? : **([👉Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-18))**
 
-#### 2️⃣ (Html - CSS - Javascript) Host a static website  : **([👉Click Here](https://www.youtube.com/watch?v=jRLGobWwA3Y))**
-
-
-#### 3️⃣ (Only readme.md) Host a static website  : **([👉Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-18))**
+##### 2️⃣ (Html - CSS - Javascript) Host a static website  : **([👉Click Here](https://www.youtube.com/watch?v=jRLGobWwA3Y))**
 
 
-#### 4️⃣ (NPM Based) Host a react website  : **([👉Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-18))**
+##### 3️⃣ (Only readme.md) Host a static website  : **([👉Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-18))**
+
+
+##### 4️⃣ (NPM Based) Host a react website  : **([👉Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-18))**
 > 🍀 **Setup NPM & NodeJs** **([👉Click Here](https://www.youtube.com/watch?v=mIW_8dMQaUk))**
 
 
 <hr>
 
 
+### Tips - 15
+
+<h2><span style="color:#F45050;font-weight:700;font-size:30px">
+  👑 How to write commit message like PRO
+</span></h2>
+
+#### 🧐 Committing Ways
+
+| **Basic Way** | **Advanced Way** |
+| --- | --- |
+| `git commit -m <message>` | `git commit -m <title> -m <description>` |
+
+####  ✍️ 6 Steps to Write Better Commit Messages
+
+
+##### 1️⃣ Capitalization & Punctuation
+```Code
+👉 Capitalize the first word and do not use in punctuation end
+👉 Example :
+    ❌❌ adding menu bar. 
+    ✅✅ Adding menu bar  
+```
+
+##### 2️⃣ Show & Express Your Mood
+```Code
+👉 Use imperative mood in the subject line
+👉 Example :
+    ❌❌ dark mode toggle state 
+    ✅✅ Add fix for dark mode toggle state  
+```
+
+##### 3️⃣ Specify The Type of Commit
+```Code
+👉 Use consistent set of words to describe your changes
+👉 Example :
+    ✅✅ Bugfix , Update , Refactor
+```
+
+##### 4️⃣ Think like a Journalist
+```Code
+👉 Be direct, try to eliminate filler words and phrases like (like : though, maybe, I think, kind of)
+👉 Example :
+    ❌❌ I added dark mode and maybe it has some issue 
+    ✅✅ Add fix for dark mode toggle state  
+```
+
+##### 5️⃣ Add Emote Start of The Committ
+```Code
+👉 It creates a beautiful expression of the commit
+👉 Example :
+    ❌❌ Add fix for dark mode toggle state 
+    ✅✅ ➕ Add fix for dark mode toggle state  
+```
+
+```Code
+ ⚠️ NT : Since emojis use special ASCII codes (not commonly used and supported in the text-based interfaces like CLIs) and Unicode systems and most command-line interfaces need a third-party package or font to handle them, this convention might not look good to everyone. They might face some issues in terms of reading histories and checking the commit messages. (Like the emoji character in the message title might be rendered as its actual ASCII code or unknown question marks) 
+```
+
+
+##### 6️⃣ Convetional Keyword First
+```Code
+👉 Use a conventional Keyword first : Then explain the commit in detail
+👉 Convetional Keywords like
+    - feat , fix , chore
+    - update , refactor , remove
+    - docs , style 
+    - test , build , revert
+👉 Example :
+    ❌❌ fixed bug on landing page 
+    ✅✅ ➕ Fix: fix bug on landing page  
+```
+
+<hr>

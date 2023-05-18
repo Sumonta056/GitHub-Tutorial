@@ -13,3 +13,6 @@
   * [Profile Generator 2](https://rahuldkjain.github.io/gh-profile-readme-generator/)
   * [Profile Generator 3](https://profile-readme-generator.com/)
   * [Profile Generator 4](https://gprm.itsvg.in/)
+
+
+  [How to create Table](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables#creating-a-table)

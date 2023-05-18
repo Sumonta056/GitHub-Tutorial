@@ -1,9 +1,9 @@
 # Commit Ways
-### Basic Way
+<!-- ### Basic Way
 `git commit -m <message>`
 
 ### Advanced Way 
-`git commit -m <title> -m <description>`
+`git commit -m <title> -m <description>` -->
 
 
 # 5 Steps to Write Better Commit Messages
