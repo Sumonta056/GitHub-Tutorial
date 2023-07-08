@@ -15,3 +15,9 @@
 📍 git remote -v: List remote repositories and their URLs.
 📍 git diff: Show differences between files.
 📍 git reset [file]: Unstage a file.
+
+
+How to make Git Commit with a Past Date
+https://youtu.be/cSwgkUHk_Qo
+git commit --amend --date="2023-07-07 20:12:20"
+ just press Esc and type :wq
