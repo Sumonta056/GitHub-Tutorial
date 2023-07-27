@@ -424,7 +424,7 @@
 ```code 
     👉 Format : git commit -m "feat: message"
 ```
-**``✍️ When you add an existing new feature, use 'feat' commit type. It helps team members identify and track significant changes easily.``**
+**✍️ When you add an existing new feature, use 'feat' commit type. It helps team members identify and track significant changes easily.**
 
 <hr>
 
@@ -436,6 +436,7 @@
 **``✍️ Addressing a bug ? Utlize 'fix' commit type to highlight that the commit resolves an issue or a problem in the repository code base``**
 
 <hr>
+
 #### 3️⃣ Miscellaneous Changes: "chore"
 
 ```code 
