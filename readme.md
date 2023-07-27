@@ -22,9 +22,10 @@
 - **[🌚 Create a Pull Request](#tips---13)**
 - **[🕸️ Hosting a website using GitHub Pages](#tips---14)**
 - **[👑 How to write commit message like PRO](#tips---15)**
-- **[🥹 GitHub Related Problems and Solutions](#tips---16)**
-   - **[⚠️ Git Server Connection Error : Fixed](#tips---16)**
-   - **[⛑️ Restore a Deleted Depository](#tips---16)**
+- **[✌️ Git Commit Message Type](#tips---16)**
+- **[🥹 GitHub Related Problems and Solutions](#tips---17)**
+   - **[⚠️ Git Server Connection Error : Fixed](#tips---17)**
+   - **[⛑️ Restore a Deleted Depository](#tips---17)**
 
 
 
@@ -411,6 +412,112 @@
 <hr>
 
 ### Tips - 16
+
+<h2><span style="color:#A5402D;font-weight:700;font-size:27px">
+  ✌️ Git Commit Message Type
+</span></h2> 
+
+
+
+#### 1️⃣ Introducing New Features : "feat"
+
+```code 
+    👉 Format : git commit -m "feat: message"
+```
+**``✍️ When you add an existing new feature, use 'feat' commit type. It helps team members identify and track significant changes easily.``**
+
+<hr>
+
+#### 2️⃣ Fixing Bugs: "fix"
+
+```code 
+    👉 Format : git commit -m "fix: message"
+```
+**``✍️ Addressing a bug ? Utlize 'fix' commit type to highlight that the commit resolves an issue or a problem in the repository code base``**
+
+<hr>
+#### 3️⃣ Miscellaneous Changes: "chore"
+
+```code 
+    👉 Format : git commit -m "chore: message"
+```
+**``✍️ For non-feature/non-fix updates like updating dependencies or performing routine tasks, use 'chore' commit type``**
+
+<hr>
+
+#### 4️⃣ Code Refactoring : "refactor"
+
+```code 
+    👉 Format : git commit -m "refactor: message"
+```
+**``✍️ When you improve the structure or readability of the code without adding features or fixing bugs, use 'refactor' commit type``**
+
+<hr>
+
+#### 5️⃣ Documentation Updates: "docs"
+
+```code 
+    👉 Format : git commit -m "docs: message"
+```
+**``✍️ Updating project documentation? Whether it's the README or other relevant files , 'docs' commit type keeps the documentation up to date``**
+
+<hr>
+
+#### 6️⃣ Code Formatting: "style"
+
+```code 
+    👉 Format : git commit -m "style: message"
+```
+**``✍️ For changes that don't affect code behavior but enhance code style or formatting , use 'style' commit type ``**
+
+<hr>
+
+#### 7️⃣ Testing Updates: "test"
+
+```code 
+    👉 Format : git commit -m "test: message"
+```
+**``✍️ When you add or modify tests to ensure code quality and reliability , use 'test' commit type to keep track testing effort``**
+
+<hr>
+
+#### 8️⃣ Performance Improvements: "perf"
+
+```code 
+    👉 Format : git commit -m "perf: message"
+```
+**``✍️ Did you optimize the code to boost performance? Use 'perf' commit type``**
+
+<hr>
+
+#### 9️⃣ Continuous Integration: "ci"
+
+```code 
+    👉 Format : git commit -m "perf: message"
+```
+**``✍️ Changes related to continuous integration, such as configuring pipelines or adjusting build process, should use the 'ci' commit type``**
+
+<hr>
+
+#### 🔟 Build System Updates: "build"
+
+```code 
+    👉 Format : git commit -m "build: message"
+```
+**``✍️ For changes impacting the build system or external dependencies such as package updates or build script modification , use 'build' commit type``**
+
+<hr>
+
+#### 1️⃣1️⃣ Reverting Changes: "revert"
+
+```code 
+    👉 Format : git commit -m "revert: message"
+```
+**``✍️ Mistakes happen! if you need to undo a previous commit , use 'revert commit type to roll back changes and restore the previous states``**
+
+<hr>
+
+### Tips - 17
 
 <h2><span style="color:#B8621B;font-weight:700;font-size:30px">
  🥹 GitHub Related Problems and Solutions 
