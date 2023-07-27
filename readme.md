@@ -3,29 +3,30 @@
 
 <hr>
 
-<h5><span style="color:#674747;font-weight:700;font-size:30px">
+<h3><span style="color:#674747;font-weight:700;font-size:30px">
     👉 Click The Desire Content
-</span></h5>
+</span></h3>
 
 - **[💻 Installation ](#tips---1)**
 - **[🧑‍💻 Setting up Git Environment ](#tips---2)**
-- **[⬆️ Upload a file or folder to Github ](#tips---3)**
-- **[🤡 Clone a Git repository](#tips---4)**
-- **[👊 Push a file to remote repository](#tips---5)**
-- **[👨‍🔧Track or Unstage a file in local repository](#tips---6)**
-- **[🔀 Revert or Undo any commit](#tips---7)**
-- **[🌳 Git Branching](#tips---8)**
-- **[🥷 Git Pull - Fetch - Merge](#tips---9)**
-  - **[🌿 Update a branch from main branch ](#tips---10)**
-  - **[🏠 Update a main branch in local repository](#tips---11)**
-  - **[🤞 Git Pull vs Fetch-Merge](#tips---12)**
-- **[🌚 Create a Pull Request](#tips---13)**
-- **[🕸️ Hosting a website using GitHub Pages](#tips---14)**
-- **[👑 How to write commit message like PRO](#tips---15)**
-- **[✌️ Git Commit Message Type](#tips---16)**
-- **[🥹 GitHub Related Problems and Solutions](#tips---17)**
-   - **[⚠️ Git Server Connection Error : Fixed](#tips---17)**
-   - **[⛑️ Restore a Deleted Depository](#tips---17)**
+- **[🔔 Git Commands List ](#tips---3)**
+- **[⬆️ Upload a file or folder to Github ](#tips---4)**
+- **[🤡 Clone a Git repository](#tips---5)**
+- **[👊 Push a file to remote repository](#tips---6)**
+- **[👨‍🔧Track or Unstage a file in local repository](#tips---7)**
+- **[🔀 Revert or Undo any commit](#tips---8)**
+- **[🌳 Git Branching](#tips---9)**
+- **[🥷 Git Pull - Fetch - Merge](#tips---10)**
+  - **[🌿 Update a branch from main branch ](#tips---11)**
+  - **[🏠 Update a main branch in local repository](#tips---12)**
+  - **[🤞 Git Pull vs Fetch-Merge](#tips---13)**
+- **[🌚 Create a Pull Request](#tips---14)**
+- **[🕸️ Hosting a website using GitHub Pages](#tips---15)**
+- **[👑 How to write commit message like PRO](#tips---16)**
+- **[✌️ Git Commit Message Type](#tips---17)**
+- **[🥹 GitHub Related Problems and Solutions](#tips---18)**
+   - **[⚠️ Git Server Connection Error : Fixed](#tips---18)**
+   - **[⛑️ Restore a Deleted Depository](#tips---18)**
 
 
 
@@ -66,6 +67,46 @@
 
 ### Tips - 3
 
+<h2><span style="color:#0B666A;font-weight:700;font-size:29px">
+  🔔 Git Commands List
+</span></h2>
+
+| **Command** | **Description** |
+| --- | --- |
+| **👉 git init** | **✍️ Initialize a new repository** |
+|              | `git init` |
+| **👉 git clone** | **✍️ Clone a remote repository** |
+|              | `git clone https://github.com/example/repo.git` |
+| **👉 git add** | **✍️ Stage file changes** |
+|              | `git add file.txt` |
+|              | `git add .` |
+| **👉 git commit** | **✍️ Commit changes with a descriptive message** |
+|              | `git commit -m "Added new feature` |
+| **👉 git status** | **✍️ Check repository status** |
+|              | `git status` |
+| **👉 git push** | **✍️ Push committed changes to a remote repository** |
+|              | `git push origin main` |
+| **👉 git pull** | **✍️ Fetch and merge changes from a remote repository** |
+|              | `git pull origin main` |
+| **👉 git branch** | **✍️ List of all branches** |
+|              | `git branch` |
+| **👉 git checkout** | **✍️ Switch to a different branch** |
+|              | `git checkout new-feature` |
+| **👉 git merge** | **✍️ Merge a branch into the current branch** |
+|              | `git merge new-feature` |
+| **👉 git log** | **✍️ View git commit history** |
+|              | `git log` |
+| **👉 git remote** | **✍️ Add remote repository** |
+|              | `git remote add upstream https://github.com/upstream/repo.git` |
+| **👉 git diff** | **✍️ Show differences between files** |
+|              | `git diff file1.txt file2.txt` |
+| **👉 git reset** | **✍️ Unstage a file** |
+|              | `git reset file.txt` |
+
+<hr>
+
+### Tips - 4
+
 <h2><span style="color:#EB455F;font-weight:700;font-size:30px">
     ⬆️ Upload a file/folder to Github
 </span></h2>
@@ -89,7 +130,7 @@
     - `git push --set-upstream origin main`
 <hr>
 
-### Tips - 4
+### Tips - 5
 
 <h2><span style="color:#5D9C59;font-weight:700;font-size:30px">
     🤡 Clone a git repository and push a file to that repository
@@ -113,7 +154,7 @@
 7. Create a new file in that location(text.txt)
 
 
-### Tips - 5
+### Tips - 6
 
 <h4><span style="color:#647E68;font-weight:700;font-size:30px">
     👊 Push any files to the remote working directory
@@ -131,7 +172,7 @@
 
 <hr>
 
-### Tips - 6
+### Tips - 7
 
 <h4><span style="color:#F45050;font-weight:700;font-size:30px">
     👨‍🔧 Track an untracked file
@@ -157,7 +198,7 @@
 
 <hr>
 
-### Tips - 7
+### Tips - 8
 
 <h2><span style="color:#7149C6;font-weight:700;font-size:30px">
     🔀 Revert or Undo any Commit
@@ -173,7 +214,7 @@
 
 <hr>
 
-### Tips - 8
+### Tips - 9
 
 <h2><span style="color:#5D9C59;font-weight:700;font-size:30px">
     🌳 Git Branching
@@ -209,7 +250,7 @@
 
 <hr>
 
-### Tips - 9
+### Tips - 10
 
 <h2><span style="color:#5D9C59;font-weight:700;font-size:30px">
     🥷 Git Pull - Fetch - Merge
@@ -217,7 +258,7 @@
 
 <hr>
 
-#### Tips - 10
+#### Tips - 11
 
 <h4><span style="color:#E96479;font-weight:700;font-size:30px">
     🌿 Update a branch from main branch
@@ -247,7 +288,7 @@
 
 <hr>
 
-#### Tips - 11
+#### Tips - 12
 
 <h4><span style="color:#6F1AB6;font-weight:700;font-size:30px">
     🏠 Update a main branch in local repository
@@ -278,7 +319,7 @@
 
 <hr>
 
-#### Tips - 12
+#### Tips - 13
 
 <h4><span style="color:#DC3535;font-weight:700;font-size:30px">
     🤞 Git Pull vs Fetch-Merge
@@ -288,7 +329,7 @@
 
 <hr>
 
-### Tips - 13
+### Tips - 14
 
 <h2><span style="color:green;font-weight:700;font-size:30px">
     ⚓ Create a Pull Request
@@ -316,7 +357,7 @@
 
 <hr>
 
-### Tips - 14
+### Tips - 15
 
 <h2><span style="color:#576CBC;font-weight:700;font-size:30px">
   🕸️ Hosting a website using GitHub
@@ -337,7 +378,7 @@
 <hr>
 
 
-### Tips - 15
+### Tips - 16
 
 <h2><span style="color:#F45050;font-weight:700;font-size:30px">
   👑 How to write commit message like PRO
@@ -411,7 +452,7 @@
 
 <hr>
 
-### Tips - 16
+### Tips - 17
 
 <h2><span style="color:#A5402D;font-weight:700;font-size:27px">
   ✌️ Git Commit Message Type
@@ -518,7 +559,7 @@
 
 <hr>
 
-### Tips - 17
+### Tips - 18
 
 <h2><span style="color:#B8621B;font-weight:700;font-size:30px">
  🥹 GitHub Related Problems and Solutions 
