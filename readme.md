@@ -33,6 +33,7 @@
 
 
 
+
 <hr>
 
 ### Tips - 1
@@ -663,6 +664,7 @@ There are various types of files we might want the git to ignore before committi
 *.jar
 ```
 
+
 <hr>
 
 ### Tips - 21
@@ -681,6 +683,7 @@ There are various types of files we might want the git to ignore before committi
 
 
 #### 💃 Add GIFs  on README.md File: **([👉Click Here](https://www.geeksforgeeks.org/how-to-add-gifs-on-readme-md-file-in-a-github-repository/))**
+
 
 
 
