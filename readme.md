@@ -708,6 +708,10 @@ There are various types of files we might want the git to ignore before committi
   💁 Contribute to Open Source repository in GitHub
 </span></h2>
 
+#### 📻 Video Guide - Contributing to Open Source  : **([👉Click Here](https://youtu.be/CML6vfKjQss))**
+
+
+
 #### ✍️ Step-by-step guide to contributing on GitHub  : **([👉Click Here](https://www.dataschool.io/how-to-contribute-on-github/))**
 #### ✍️ Example Code Overview of Contributing to an existing repository  : **([👉Click Here](https://docs.github.com/en/get-started/using-git/about-git#example-contribute-to-an-existing-repository))**
 
