@@ -718,6 +718,9 @@ There are various types of files we might want the git to ignore before committi
 #### 🎥 Video Tutorial - How To Contribute in 3 Minutes : **([👉Click Here](https://youtu.be/jRLGobWwA3Y))**
 
 
+#### 🏠 Open Source BootCamp - Master Open Source Contributions : **([👉Click Here](https://youtube.com/playlist?list=PLinedj3B30sAT6CotNj0iffhRV89SkNK9))**
+
+
 <hr>
 
 
