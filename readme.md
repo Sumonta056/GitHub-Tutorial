@@ -720,6 +720,8 @@ There are various types of files we might want the git to ignore before committi
 
 #### 🏠 Open Source BootCamp - Master Open Source Contributions : **([👉Click Here](https://youtube.com/playlist?list=PLinedj3B30sAT6CotNj0iffhRV89SkNK9))**
 
+#### 🔍 How to Find the Best Repositories for Open Source Contribution : **([👉Click Here](https://youtu.be/noKgvN_42Hk))**
+
 
 <hr>
 
