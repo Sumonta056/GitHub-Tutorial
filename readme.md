@@ -7,6 +7,8 @@
     👉 Click The Desire Content
 </span></h3>
 
+## Content List
+
 - **[💻 Installation ](#tips---1)**
 - **[🧑‍💻 Setting up Git Environment ](#tips---2)**
 - **[🔔 Git Commands List ](#tips---3)**
@@ -58,7 +60,8 @@
 - GitHub Desktop (**[👉Download](https://desktop.github.com/)**)
 - How to **install GitHub Desktop** Step by Step (**[👉Tutorial Link](https://www.youtube.com/watch?v=RPagOAUx2SQ)**)
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
+
 
 ### Tips - 2
 
@@ -77,7 +80,7 @@
 
 3. Setting Done Successfully
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 ### Tips - 3
 
@@ -117,7 +120,7 @@
 | **👉 git reset** | **✍️ Unstage a file** |
 |              | `git reset file.txt` |
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 ### Tips - 4
 
@@ -167,6 +170,7 @@
    - pwd = print working directory
 7. Create a new file in that location(text.txt)
 
+[![E](Images/footer.png 'E')](#content-list)
 
 ### Tips - 6
 
@@ -184,7 +188,7 @@
     - **Code - 8 :**`git push"`
     - Force Push:`git push -f"`
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 ### Tips - 7
 
@@ -210,7 +214,7 @@
 2. **Code - 2 :**`git reset -- "file name"`
 3. Unstaging file successfully
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 ### Tips - 8
 
@@ -226,7 +230,7 @@
 3. Write the following code
    - **Code - 2 :**`git checkout "Hash Code"`
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 ### Tips - 9
 
@@ -262,7 +266,7 @@
 7. Check Branch Status
    - **Code - 6 :**`git branch`
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 ### Tips - 10
 
@@ -270,7 +274,7 @@
     🥷 Git Pull - Fetch - Merge
 </span></h2>
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 #### Tips - 11
 
@@ -300,7 +304,7 @@
 3. Pull from master branch
    - **Code - 3 :**`git pull origin master`
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 #### Tips - 12
 
@@ -331,7 +335,7 @@
    - **Code - 3 :**`git pull`
    - **Force Pull :**`git pull origin master`
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 #### Tips - 13
 
@@ -341,7 +345,7 @@
 
 ##### 🎥 Video Tutorial : **([👉Click Here](https://www.youtube.com/watch?v=KmagW60Li-o))**
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 ### Tips - 14
 
@@ -369,7 +373,7 @@
 8. Now do the following Steps **[👉Click Here](https://www.youtube.com/watch?v=jRLGobWwA3Y)**
 
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 ### Tips - 15
 
@@ -389,7 +393,7 @@
 > 🍀 **Setup NPM & NodeJs** **([👉Click Here](https://www.youtube.com/watch?v=mIW_8dMQaUk))**
 
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 
 ### Tips - 16
@@ -464,7 +468,7 @@
     ✅✅ ➕ Fix: fix bug on landing page  
 ```
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 ### Tips - 17
 
@@ -571,7 +575,7 @@
 ```
 **✍️ Mistakes happen! if you need to undo a previous commit , use 'revert commit type to roll back changes and restore the previous states**
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 ### Tips - 18
 
@@ -590,7 +594,7 @@
 ##### 🕵️ Description: Mistakenly deleted an important repository
 * 👉 **Solution** : Blog Link Step By Step **([👉Click Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/restoring-a-deleted-repository))**
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 ### Tips - 19
 
@@ -614,7 +618,7 @@
    - **Code - 4** : `git push origin master`
 7. **Successfully committed with a random date**
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 ### Tips - 20
 
@@ -675,7 +679,7 @@ There are various types of files we might want the git to ignore before committi
 ```
 
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 ### Tips - 21
 
@@ -697,7 +701,7 @@ There are various types of files we might want the git to ignore before committi
 
 
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 
 
@@ -906,7 +910,7 @@ If you're ready to start making code contributions (beyond just fixing typos), h
 ###### 🎥 How to give access permissions of your repository to other **([👉Click Here](https://youtu.be/nS9QbJt4KaQ?t=380))**
 
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
 
 
 
@@ -1019,4 +1023,4 @@ To prevent such conflicts, developers work in separate isolated branches. The Gi
 ```
 
 
-<hr>
+[![E](Images/footer.png 'E')](#content-list)
