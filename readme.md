@@ -145,7 +145,8 @@
 11. **Use any of this if the above code not works**
     - `git push origin master --force`
     - `git push --set-upstream origin main`
-<hr>
+
+[![E](Images/footer.png 'E')](#content-list)
 
 ### Tips - 5
 
@@ -274,7 +275,7 @@
     🥷 Git Pull - Fetch - Merge
 </span></h2>
 
-[![E](Images/footer.png 'E')](#content-list)
+<hr>
 
 #### Tips - 11
 
