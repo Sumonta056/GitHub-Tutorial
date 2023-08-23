@@ -18,7 +18,7 @@
 - **[👨‍🔧Track or Unstage a file in local repository](#tips---7)**
 - **[🔀 Revert or Undo any commit](#tips---8)**
 - **[🌳 Git Branching](#tips---9)**
-- **[🥷 Git Pull - Fetch - Merge](#tips---10)**
+- **[🥱 Git Pull - Fetch - Merge](#tips---10)**
   - **[🌿 Update a branch from main branch ](#tips---11)**
   - **[🏠 Update a main branch in local repository](#tips---12)**
   - **[🤞 Git Pull vs Fetch-Merge](#tips---13)**
@@ -272,7 +272,7 @@
 ### Tips - 10
 
 <h2><span style="color:#5D9C59;font-weight:700;font-size:30px">
-    🥷 Git Pull - Fetch - Merge
+    🥱 Git Pull - Fetch - Merge
 </span></h2>
 
 <hr>
