@@ -409,6 +409,8 @@
 | --- | --- |
 | `git commit -m <message>` | `git commit -m <title> -m <description>` |
 
+#### 🥱 Format :  [FEAT] Commit Message 
+
 ####  ✍️ 6 Steps to Write Better Commit Messages
 
 
@@ -477,6 +479,7 @@
   ✌️ Git Commit Message Type
 </span></h2> 
 
+#### 🥱 Format :  [FEAT] Commit Message 
 
 
 #### 1️⃣ Introducing New Features : "feat"
