@@ -700,6 +700,8 @@ There are various types of files we might want the git to ignore before committi
 #### 💃 Add GIFs  on README.md File: **([👉Click Here](https://www.geeksforgeeks.org/how-to-add-gifs-on-readme-md-file-in-a-github-repository/))**
 
 
+#### 🧠 Add images and links in Markdown by dragging and dropping in VSCode: **([👉Click Here](https://www.youtube.com/watch?v=jpeh1WorrWM))**
+
 
 
 [![E](Images/footer.png 'E')](#content-list)
