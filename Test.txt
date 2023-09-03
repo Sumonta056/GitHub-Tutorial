@@ -1,0 +1,39 @@
+```bash
+git rebase -i HEAD~5   
+you will get a list of past commits
+
+choose  one
+
+now press ESC
+
+you will see "PICK" key word before your desire commit mesaage
+
+press i
+
+modify the "pICK" keyword to "Edit" 
+
+Press ESC
+
+Press SHIFT + Z + Z
+
+git commit --amend
+
+Press ESC
+
+Press I
+
+Now you can edit the selected Pushed Git Commit Message 
+
+Press ESC
+
+Press SHIFT + Z + Z
+
+git push - f
+
+
+git push origin HEAD:main  "git branch -M main"
+
+git rebase --continue
+
+git push -f
+```
