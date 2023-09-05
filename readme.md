@@ -41,16 +41,14 @@
    - **[🥩 Tips for contributing in Open Source Project ](#tips---22)**
    - **[🥶 Collaboration with Others ](#tips---22)**
     - **[🌮 How to give access permissions of your repository to other ](#tips---22)**
-<<<<<<< HEAD
-- **[ 🎅 How to Resolving Merge Conflicts ?](#tips---23)**
-=======
+
      - **[😷 Wrtting a Issue in the Project Repository ](#tips---22)**
    - **[🤯 Resources for Finding an Open-Source Program Contribution ](#tips---22)**
 - **[ 🎅 How to Resolving Merge Conflicts ?](#tips---23)**
 - **[ ⚔️ How To Edit Pushed Git Commit Message?](#tips---24)**
    - **[ ❤️‍🩹 Edit The ⭐ Last ⭐ Pushed Git Commit Message](#tips---24)**
    - **[ 🍂 Edit The ⭐ Any ⭐ Pushed Git Commit Message](#tips---24)**
->>>>>>> de0d938d5f8bc80786c7dc353240c0dae1e53fcd
+
 
 
 
@@ -928,7 +926,7 @@ If you're ready to start making code contributions (beyond just fixing typos), h
 
 #### 😷 Wrtting a Issue in the Project Repository
 
-<!-- ![Alt text](Images/image.png) -->
+![Alt text](Images/image.png)
 
 ###### ❓ What is GitHub Issues? **([👉Click Here](https://youtu.be/6HWw7rhwvtY?si=_tBYe0GAwPU0UgMR))**
 
