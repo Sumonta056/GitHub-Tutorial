@@ -33,24 +33,23 @@
 - **[🤷‍♀️ What is Git-Ignore and How To Use It ! ](#tips---20)**
 - **[🎀 How To Add Video, Audio and GIFs Files directly in README.md File ](#tips---21)**
 - **[💁 Contribute to Open Source repository in GitHub ](#tips---22)**
-    - **[🍔 Fork and Clone Repository ](#tips---22)**
-    - **[🌭 Remote "Origin" and "UpStream"](#tips---22)**
-    - **[🍿 Pull and Push change to upstream ](#tips---22)**
-    - **[🥗 Create new branch for contributing](#tips---22)**
-    - **[🥪 Create a pull request ](#tips---22)**
-    - **[🥩 Tips for contributing in Open Source Project ](#tips---22)**
-    - **[🥶 Collaboration with Others ](#tips---22)**
-    - **[🌮 How to give access permissions of your repository to other ](#tips---22)**
-    - **[😷 Wrtting a Issue in the Project Repository ](#tips---22)**
-    - **[🤯 Resources for Finding an Open-Source Program Contribution ](#tips---22)**
+   - **[🍔 Fork and Clone Repository ](#tips---22)**
+   - **[🌭 Remote "Origin" and "UpStream"](#tips---22)**
+   - **[🍿 Pull and Push change to upstream ](#tips---22)**
+   - **[🥗 Create new branch for contributing](#tips---22)**
+   - **[🥪 Create a pull request ](#tips---22)**
+   - **[🥩 Tips for contributing in Open Source Project ](#tips---22)**
+   - **[🥶 Collaboration with Others ](#tips---22)**
+   - **[🌮 How to give access permissions of your repository to other ](#tips---22)**
+   - **[😷 Wrtting a Issue in the Project Repository ](#tips---22)**
+   - **[🤯 Resources for Finding an Open-Source Program Contribution ](#tips---22)**
 - **[ 🎅 How to Resolving Merge Conflicts ?](#tips---23)**
 - **[ ⚔️ How To Edit Pushed Git Commit Message?](#tips---24)**
    - **[ ❤️‍🩹 Edit The ⭐ Last ⭐ Pushed Git Commit Message](#tips---24)**
    - **[ 🍂 Edit The ⭐ Any ⭐ Pushed Git Commit Message](#tips---24)**
-
-
-
-
+- **[ 🫀 How to Roll Back ( Git Reset vs Revert ) a Git Repository to a Particular Commit ](#tips---25)**
+   - **[ 🫁 How to Reset a Git Repository to a Specific Commit](#tips---25)**
+   - **[ 😮‍💨 How to Revert a Git Repository to a Specific Commit](#tips---25)**
 
 <hr>
 
@@ -1062,6 +1061,240 @@ To prevent such conflicts, developers work in separate isolated branches. The Gi
   ✍️ This command continues a rebase operation after 
   resolving conflicts in the conflicted files.
 ```
+
+
+[![E](Images/footer.png 'E')](#content-list)
+
+
+
+
+### Tips - 24
+
+<h2><span style="color:#97FFF4;font-weight:700;font-size:25px">
+   ⚔️ How To Edit Pushed Git Commit Message?
+</span></h2>
+
+#### 🎥 Tutorial How To Edit Pushed Git Commit Message: **([👉Click Here](https://youtu.be/BNF4le5X1Ms?si=B4OqcrJ3Ojj5al_J))**
+
+<hr>
+
+#### ❤️‍🩹 Edit The ⭐ Last ⭐ Pushed Git Commit Message **([👉Tutorial](https://youtu.be/BNF4le5X1Ms?si=B4OqcrJ3Ojj5al_J) )**
+
+1. **✍️ Open Git Terminal of Your Project**
+
+```bash
+git commit --amend
+```
+
+2. **✍️ New Window will open where in top you see the last commit message**
+
+3. **✍️ Write the following commands**
+
+```bash
+Press ESC
+```
+
+4. **✍️ To Edit the Message** 
+
+```bash
+ Press I
+```
+
+5. **✍️ Now you can edit the Last Pushed Git Commit Message. After edit do this :**
+```bash
+Press ESC
+```
+```bash
+Press SHIFT + Z + Z
+```
+
+6. **✍️ Now Push the Git Updated Commit Message**
+
+```bash
+git push -f
+```
+
+7. **🥳 Successfully Updated the Last Commit Message**
+
+<hr>
+
+
+
+#### 🍂 Edit The ⭐ Any ⭐ Pushed Git Commit Message **([👉Tutorial](https://youtu.be/BNF4le5X1Ms?si=B4OqcrJ3Ojj5al_J) )**
+
+1. **✍️ Open Git Terminal of Your Project**
+
+```bash
+git rebase -i HEAD~5  
+```
+[Here 5 = How Many last commit you want to see]
+
+
+2. **✍️ New Window will open where in top you see the all last commit message upto 5**
+
+3. **✍️ Choose the desire commit Then**
+
+```bash
+Press ESC
+```
+
+4. **✍️ You will see "PICK" key word before your desire commit mesaage**
+```bash
+Press I
+```
+
+5. **✍️ Modify the "PICK" keyword to "Edit". After modifying do this :**
+```bash
+Press ESC
+```
+```bash
+Press SHIFT + Z + Z
+```
+
+6. **✍️ Now write the following command**
+```bash
+git commit --amend
+```
+7. **✍️ To Edit The Last Selected Message** 
+
+```bash
+ Press I
+```
+
+8. **✍️ Now you can edit the selected Pushed Git Commit Message. After edit do this :**
+```bash
+Press ESC
+```
+```bash
+Press SHIFT + Z + Z
+```
+
+9. **✍️ Now Push the Git Updated Commit Message**
+
+```bash
+git push -f
+```
+
+10. **✍️ Now write the following command**
+
+```bash
+git push origin HEAD:main 
+
+git branch -M main
+```
+```bash
+git rebase --continue
+```
+
+11. **✍️ Now do a final push**
+
+```bash
+git push -f
+```
+
+12. **🥳 Successfully Updated the Selected Commit Message**
+
+[![E](Images/footer.png 'E')](#content-list)
+
+
+
+### Tips - 25
+
+<h2><span style="color:#E25E3E;font-weight:700;font-size:30px">
+    🫀 How to Roll Back ( Git Reset vs Revert ) a Git Repository to a Particular Commit 
+</span></h2>
+
+
+#### ✍️ Blog Guide Step by Step Git Reset: **([👉Click Here](https://linuxhint.com/roll-back-reset-git-repository-to-particular-commit/) )**
+
+#### 🎥 Video Tutorial Git Revert vs Reset: **([👉Click Here](https://www.youtube.com/watch?v=IWR24Z1yp80) )**
+
+
+<hr>
+
+#### ⛑️ Git reset and git revert are not the same.
+
+Git reset will undo changes up to the state of the specified commit ID. For example, reverting to the second commit ID will undo changes and leave the state of the file as the state of the second commit.
+Ggit revert will undo changes up to the state before the specified commit ID. For example, reverting to the second commit ID will undo changes and leave the state of the file as the state of the commit that comes before the second commit – the first commit.
+
+The explanations above may seem confusing. The best way to understand it is to try it out yourself.
+
+#### 🎡 When to Use git reset and git revert
+
+You should use git reset when working on a local repository with changes yet to be pushed remotely. This is because running this command after pulling changes from the remote repo will alter the commit history of the project, leading to merge conflicts for everyone working on the project.
+
+Git reset is a good option when you realize that the changes being made to a particular local branch should be somewhere else. You can reset and move to the desired branch without losing your file changes.
+
+**Git revert is a good option for reverting changes pushed to a remote repository. Since this command creates a new commit, you can safely get rid of your mistakes without rearranging the commit history for everyone else.**
+
+<hr>
+
+### ⚠️ Reset Only Works for Local Commits
+
+#### 🫁 How to Reset a Git Repository to a Specific Commit **([👉Tutorial](https://youtu.be/IWR24Z1yp80?t=213) )**
+
+###### 👉 Step - 1 : View and Check Git Commit History
+
+```bash
+git log --oneline
+```
+
+###### 👉 Step - 2 : Choose a particular commit and its copy SHA-hash
+![Alt text](image.png)
+
+**We have selected the “Files added” commit, whose hash value is “9bd11a3”**
+
+###### 👉 Step - 3 : Reset to Particular Commit : Run the “git reset –hard <commit-id>” command
+
+```bash
+git reset --hard 9bd11a3
+```
+
+###### 👉 Step - 4 : Next Do the following command things
+
+```bash
+git add .
+git commit -m "Your Message"
+git push origin main
+```
+
+###### 🍭 Step - 5 : Successfully Reset to Particular Commit
+
+
+<hr>
+
+### ⚠️ Revert Only Works for Public/Remote Commits
+#### 😮‍💨 How to Revert a Git Repository to a Specific Commit **([👉Tutorial](https://youtu.be/IWR24Z1yp80?t=492) )**
+
+###### 👉 Step - 1 : View and Check Git Commit History
+
+```bash
+git log --oneline
+```
+
+###### 👉 Step - 2 : Choose a particular commit and its copy SHA-hash
+![Alt text](image.png)
+
+**We have selected the “Files added” commit, whose hash value is “9bd11a3”**
+
+###### 👉 Step - 3 : Revert to Particular Commit 
+
+```bash
+git revert 9bd11a3
+```
+
+###### 👉 Step - 4 : New Screen will come then type any of below code
+
+```bash
+Type "Esc"
+Type "SHIFT + Z + Z"
+```
+
+```bash
+Type ":wq"
+```
+
+###### 🍭 Step - 5 : Successfully Revert to Particular Commit
 
 
 [![E](Images/footer.png 'E')](#content-list)
