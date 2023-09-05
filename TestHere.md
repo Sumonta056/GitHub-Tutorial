@@ -1,130 +1,28 @@
 
-
-### Tips - 24
-
-<h2><span style="color:#97FFF4;font-weight:700;font-size:25px">
-   ⚔️ How To Edit Pushed Git Commit Message?
-</span></h2>
-
-#### 🎥 Tutorial How To Edit Pushed Git Commit Message: **([👉Click Here](https://youtu.be/BNF4le5X1Ms?si=B4OqcrJ3Ojj5al_J))**
-
 <hr>
 
-#### ❤️‍🩹 Edit The ⭐ Last ⭐ Pushed Git Commit Message **([👉Tutorial](https://youtu.be/BNF4le5X1Ms?si=B4OqcrJ3Ojj5al_J) )**
+#### 😷 Wrtting a Issue in the Project Repository
 
-1. **✍️ Open Git Terminal of Your Project**
+![Alt text](image.png)
 
-```bash
-git commit --amend
-```
+###### ❓ What is GitHub Issues? **([👉Click Here](https://youtu.be/6HWw7rhwvtY?si=_tBYe0GAwPU0UgMR))**
 
-2. **✍️ New Window will open where in top you see the last commit message**
+###### 📺 Video Tutorial : How To Create Issue in Repository **([👉Click Here](https://www.youtube.com/watch?v=TKJ4RdhyB5Y))**
+###### 🎥 How To Create Issue Templete in Own Repository **([👉Click Here](https://youtu.be/iCNA_zyawi8?si=wTEk13imWx4LNKz7))**
 
-3. **✍️ Write the following commands**
-
-```bash
-Press ESC
-```
-
-4. **✍️ To Edit the Message** 
-
-```bash
- Press I
-```
-
-5. **✍️ Now you can edit the Last Pushed Git Commit Message. After edit do this :**
-```bash
-Press ESC
-```
-```bash
-Press SHIFT + Z + Z
-```
-
-6. **✍️ Now Push the Git Updated Commit Message**
-
-```bash
-git push -f
-```
-
-7. **🥳 Successfully Updated the Last Commit Message**
 
 <hr>
 
 
+#### 🤯 Resources for Finding an Open-Source Program Contribution
 
-#### 🍂 Edit The ⭐ Any ⭐ Pushed Git Commit Message **([👉Tutorial](https://youtu.be/BNF4le5X1Ms?si=B4OqcrJ3Ojj5al_J) )**
-
-1. **✍️ Open Git Terminal of Your Project**
-
-```bash
-git rebase -i HEAD~5  
-```
-[Here 5 = How Many last commit you want to see]
-
-
-2. **✍️ New Window will open where in top you see the all last commit message upto 5**
-
-3. **✍️ Choose the desire commit Then**
-
-```bash
-Press ESC
-```
-
-4. **✍️ You will see "PICK" key word before your desire commit mesaage**
-```bash
-Press I
-```
-
-5. **✍️ Modify the "PICK" keyword to "Edit". After modifying do this :**
-```bash
-Press ESC
-```
-```bash
-Press SHIFT + Z + Z
-```
-
-6. **✍️ Now write the following command**
-```bash
-git commit --amend
-```
-7. **✍️ To Edit The Last Selected Message** 
-
-```bash
- Press I
-```
-
-8. **✍️ Now you can edit the selected Pushed Git Commit Message. After edit do this :**
-```bash
-Press ESC
-```
-```bash
-Press SHIFT + Z + Z
-```
-
-9. **✍️ Now Push the Git Updated Commit Message**
-
-```bash
-git push -f
-```
-
-10. **✍️ Now write the following command**
-
-```bash
-git push origin HEAD:main 
-
-git branch -M main
-```
-```bash
-git rebase --continue
-```
-
-11. **✍️ Now do a final push**
-
-```bash
-git push -f
-```
-
-12. **🥳 Successfully Updated the Selected Commit Message**
-
-[![E](Images/footer.png 'E')](#content-list)
-
+- **🔍 GitHub Explore : [ 👉 Click Here ](https://github.com/explore/)**
+- **🎁 Up for Grabs : [ 👉 Click Here ](https://up-for-grabs.net/#/)**
+- **🍁 HacktoberFest Projects : [ 👉 Click Here ](https://hacktoberfest.com/participation/)**
+- **🌟 Ovio Projects  : [ 👉 Click Here ](https://ovio.org/project/coder/code-server)**
+- **🚀 Good First Issues : [ 👉 Click Here ](https://goodfirstissue.dev/)**
+- **🌐 Google Summer of Code : [ 👉 Click Here ](https://summerofcode.withgoogle.com/)**
+- **🌈 Outreachy : [ 👉 Click Here ](https://www.outreachy.org/apply/eligibility/)**
+- **🌌 MLH Fellowship : [ 👉 Click Here ](https://fellowship.mlh.io/)**
+- **🌍 Google For Developers  : [ 👉 Click Here ](https://developers.google.com/)**
+- **🌞 GNOME Summer of Code : [ 👉 Click Here ](https://gsoc.gnome.org/#small-contribution)**
