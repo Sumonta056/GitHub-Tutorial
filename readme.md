@@ -34,16 +34,15 @@
 - **[🎀 How To Add Video, Audio and GIFs Files directly in README.md File ](#tips---21)**
 - **[💁 Contribute to Open Source repository in GitHub ](#tips---22)**
     - **[🍔 Fork and Clone Repository ](#tips---22)**
-  - **[🌭 Remote "Origin" and "UpStream"](#tips---22)**
-   - **[🍿 Pull and Push change to upstream ](#tips---22)**
-  - **[🥗 Create new branch for contributing](#tips---22)**
-   - **[🥪 Create a pull request ](#tips---22)**
-   - **[🥩 Tips for contributing in Open Source Project ](#tips---22)**
-   - **[🥶 Collaboration with Others ](#tips---22)**
+    - **[🌭 Remote "Origin" and "UpStream"](#tips---22)**
+    - **[🍿 Pull and Push change to upstream ](#tips---22)**
+    - **[🥗 Create new branch for contributing](#tips---22)**
+    - **[🥪 Create a pull request ](#tips---22)**
+    - **[🥩 Tips for contributing in Open Source Project ](#tips---22)**
+    - **[🥶 Collaboration with Others ](#tips---22)**
     - **[🌮 How to give access permissions of your repository to other ](#tips---22)**
-
-     - **[😷 Wrtting a Issue in the Project Repository ](#tips---22)**
-   - **[🤯 Resources for Finding an Open-Source Program Contribution ](#tips---22)**
+    - **[😷 Wrtting a Issue in the Project Repository ](#tips---22)**
+    - **[🤯 Resources for Finding an Open-Source Program Contribution ](#tips---22)**
 - **[ 🎅 How to Resolving Merge Conflicts ?](#tips---23)**
 - **[ ⚔️ How To Edit Pushed Git Commit Message?](#tips---24)**
    - **[ ❤️‍🩹 Edit The ⭐ Last ⭐ Pushed Git Commit Message](#tips---24)**
