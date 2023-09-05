@@ -924,7 +924,7 @@ If you're ready to start making code contributions (beyond just fixing typos), h
 
 #### 😷 Wrtting a Issue in the Project Repository
 
-![Alt text](Images/image.png)
+<!-- ![Alt text](Images/image.png) -->
 
 ###### ❓ What is GitHub Issues? **([👉Click Here](https://youtu.be/6HWw7rhwvtY?si=_tBYe0GAwPU0UgMR))**
 
