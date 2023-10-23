@@ -746,6 +746,9 @@ There are various types of files we might want the git to ignore before committi
 
 #### ✍️ Open Source Crash Course Notes : **([👉Click Here](https://app.eraser.io/workspace/PaI6tlInajtHXxgdKUiz))**
 
+#### ✍️ Top 10 Mistakes in Open Source Contribution World  : **([👉Click Here](https://youtu.be/3ue4ZE7QBTk?si=79yHk0VRsW1b3Tqm))**
+
+
 
 <hr>
 
