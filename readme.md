@@ -50,6 +50,7 @@
 - **[ 🫀 How to Roll Back ( Git Reset vs Revert ) a Git Repository to a Particular Commit ](#tips---25)**
    - **[ 🫁 How to Reset a Git Repository to a Specific Commit](#tips---25)**
    - **[ 😮‍💨 How to Revert a Git Repository to a Specific Commit](#tips---25)**
+- **[ 🤕 Ignore Files Using : .gitignore (How to use the gitignore file) ](#tips---26)**
 
 <hr>
 
@@ -1305,5 +1306,19 @@ Type ":wq"
 
 ###### 🍭 Step - 5 : Successfully Revert to Particular Commit
 
+
+[![E](Images/footer.png 'E')](#content-list)
+
+
+### Tips - 26
+
+<h2><span style="color:#E25E3E;font-weight:700;font-size:30px">
+    🤕 Ignore Files Using : .gitignore (How to use the gitignore file)
+</span></h2>
+
+
+#### 🎥 How to Ignore Different File in Git Ignore : **([👉 Video Link](https://youtu.be/1Qk8jrBrp9o?t=136) )**
+
+#### ✍️ Prebuilt .gitIgnore Files for Different Language Projects: **([👉Click Here](https://github.com/github/gitignore) )**
 
 [![E](Images/footer.png 'E')](#content-list)
