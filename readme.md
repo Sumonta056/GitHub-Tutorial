@@ -1,4 +1,3 @@
-
 <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"> Learn Everything About Git and GitHub</h1>
 
 <hr>
@@ -27,30 +26,31 @@
 - **[👑 How to write commit message like PRO](#tips---16)**
 - **[✌️ Git Commit Message Type](#tips---17)**
 - **[🥹 GitHub Related Problems and Solutions](#tips---18)**
-   - **[⚠️ Git Server Connection Error : Fixed](#tips---18)**
-   - **[⛑️ Restore a Deleted Depository](#tips---18)**
+  - **[⚠️ Git Server Connection Error : Fixed](#tips---18)**
+  - **[⛑️ Restore a Deleted Depository](#tips---18)**
 - **[🍕 How to make a Git Commit with a Past Date](#tips---19)**
 - **[🤷‍♀️ What is Git-Ignore and How To Use It ! ](#tips---20)**
 - **[🎀 How To Add Video, Audio and GIFs Files directly in README.md File ](#tips---21)**
 - **[💁 Contribute to Open Source repository in GitHub ](#tips---22)**
-   - **[🍔 Fork and Clone Repository ](#tips---22)**
-   - **[🌭 Remote "Origin" and "UpStream"](#tips---22)**
-   - **[🍿 Pull and Push change to upstream ](#tips---22)**
-   - **[🥗 Create new branch for contributing](#tips---22)**
-   - **[🥪 Create a pull request ](#tips---22)**
-   - **[🥩 Tips for contributing in Open Source Project ](#tips---22)**
-   - **[🥶 Collaboration with Others ](#tips---22)**
-   - **[🌮 How to give access permissions of your repository to other ](#tips---22)**
-   - **[😷 Wrtting a Issue in the Project Repository ](#tips---22)**
-   - **[🤯 Resources for Finding an Open-Source Program Contribution ](#tips---22)**
+  - **[🍔 Fork and Clone Repository ](#tips---22)**
+  - **[🌭 Remote "Origin" and "UpStream"](#tips---22)**
+  - **[🍿 Pull and Push change to upstream ](#tips---22)**
+  - **[🥗 Create new branch for contributing](#tips---22)**
+  - **[🥪 Create a pull request ](#tips---22)**
+  - **[🥩 Tips for contributing in Open Source Project ](#tips---22)**
+  - **[🥶 Collaboration with Others ](#tips---22)**
+  - **[🌮 How to give access permissions of your repository to other ](#tips---22)**
+  - **[😷 Wrtting a Issue in the Project Repository ](#tips---22)**
+  - **[🤯 Resources for Finding an Open-Source Program Contribution ](#tips---22)**
 - **[ 🎅 How to Resolving Merge Conflicts ?](#tips---23)**
 - **[ ⚔️ How To Edit Pushed Git Commit Message?](#tips---24)**
-   - **[ ❤️‍🩹 Edit The ⭐ Last ⭐ Pushed Git Commit Message](#tips---24)**
-   - **[ 🍂 Edit The ⭐ Any ⭐ Pushed Git Commit Message](#tips---24)**
+  - **[ ❤️‍🩹 Edit The ⭐ Last ⭐ Pushed Git Commit Message](#tips---24)**
+  - **[ 🍂 Edit The ⭐ Any ⭐ Pushed Git Commit Message](#tips---24)**
 - **[ 🫀 How to Roll Back ( Git Reset vs Revert ) a Git Repository to a Particular Commit ](#tips---25)**
-   - **[ 🫁 How to Reset a Git Repository to a Specific Commit](#tips---25)**
-   - **[ 😮‍💨 How to Revert a Git Repository to a Specific Commit](#tips---25)**
+  - **[ 🫁 How to Reset a Git Repository to a Specific Commit](#tips---25)**
+  - **[ 😮‍💨 How to Revert a Git Repository to a Specific Commit](#tips---25)**
 - **[ 🤕 Ignore Files Using : .gitignore (How to use the gitignore file) ](#tips---26)**
+- **[ 🦖 Tutorial : Documentation of GitHub Readme) ](#tips---27)**
 
 <hr>
 
@@ -66,8 +66,7 @@
 - GitHub Desktop (**[👉Download](https://desktop.github.com/)**)
 - How to **install GitHub Desktop** Step by Step (**[👉Tutorial Link](https://www.youtube.com/watch?v=RPagOAUx2SQ)**)
 
-[![E](Images/footer.png 'E')](#content-list)
-
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 2
 
@@ -86,7 +85,7 @@
 
 3. Setting Done Successfully
 
-[![E](Images/footer.png 'E')](#content-list)
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 3
 
@@ -94,39 +93,39 @@
   🔔 Git Commands List
 </span></h2>
 
-| **Command** | **Description** |
-| --- | --- |
-| **👉 git init** | **✍️ Initialize a new repository** |
-|              | `git init` |
-| **👉 git clone** | **✍️ Clone a remote repository** |
-|              | `git clone https://github.com/example/repo.git` |
-| **👉 git add** | **✍️ Stage file changes** |
-|              | `git add file.txt` |
-|              | `git add .` |
-| **👉 git commit** | **✍️ Commit changes with a descriptive message** |
-|              | `git commit -m "Added new feature` |
-| **👉 git status** | **✍️ Check repository status** |
-|              | `git status` |
-| **👉 git push** | **✍️ Push committed changes to a remote repository** |
-|              | `git push origin main` |
-| **👉 git pull** | **✍️ Fetch and merge changes from a remote repository** |
-|              | `git pull origin main` |
-| **👉 git branch** | **✍️ List of all branches** |
-|              | `git branch` |
-| **👉 git checkout** | **✍️ Switch to a different branch** |
-|              | `git checkout new-feature` |
-| **👉 git merge** | **✍️ Merge a branch into the current branch** |
-|              | `git merge new-feature` |
-| **👉 git log** | **✍️ View git commit history** |
-|              | `git log` |
-| **👉 git remote** | **✍️ Add remote repository** |
-|              | `git remote add upstream https://github.com/upstream/repo.git` |
-| **👉 git diff** | **✍️ Show differences between files** |
-|              | `git diff file1.txt file2.txt` |
-| **👉 git reset** | **✍️ Unstage a file** |
-|              | `git reset file.txt` |
+| **Command**         | **Description**                                                |
+| ------------------- | -------------------------------------------------------------- |
+| **👉 git init**     | **✍️ Initialize a new repository**                             |
+|                     | `git init`                                                     |
+| **👉 git clone**    | **✍️ Clone a remote repository**                               |
+|                     | `git clone https://github.com/example/repo.git`                |
+| **👉 git add**      | **✍️ Stage file changes**                                      |
+|                     | `git add file.txt`                                             |
+|                     | `git add .`                                                    |
+| **👉 git commit**   | **✍️ Commit changes with a descriptive message**               |
+|                     | `git commit -m "Added new feature`                             |
+| **👉 git status**   | **✍️ Check repository status**                                 |
+|                     | `git status`                                                   |
+| **👉 git push**     | **✍️ Push committed changes to a remote repository**           |
+|                     | `git push origin main`                                         |
+| **👉 git pull**     | **✍️ Fetch and merge changes from a remote repository**        |
+|                     | `git pull origin main`                                         |
+| **👉 git branch**   | **✍️ List of all branches**                                    |
+|                     | `git branch`                                                   |
+| **👉 git checkout** | **✍️ Switch to a different branch**                            |
+|                     | `git checkout new-feature`                                     |
+| **👉 git merge**    | **✍️ Merge a branch into the current branch**                  |
+|                     | `git merge new-feature`                                        |
+| **👉 git log**      | **✍️ View git commit history**                                 |
+|                     | `git log`                                                      |
+| **👉 git remote**   | **✍️ Add remote repository**                                   |
+|                     | `git remote add upstream https://github.com/upstream/repo.git` |
+| **👉 git diff**     | **✍️ Show differences between files**                          |
+|                     | `git diff file1.txt file2.txt`                                 |
+| **👉 git reset**    | **✍️ Unstage a file**                                          |
+|                     | `git reset file.txt`                                           |
 
-[![E](Images/footer.png 'E')](#content-list)
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 4
 
@@ -152,7 +151,7 @@
     - `git push origin master --force`
     - `git push --set-upstream origin main`
 
-[![E](Images/footer.png 'E')](#content-list)
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 5
 
@@ -177,7 +176,7 @@
    - pwd = print working directory
 7. Create a new file in that location(text.txt)
 
-[![E](Images/footer.png 'E')](#content-list)
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 6
 
@@ -195,7 +194,7 @@
     - **Code - 8 :**`git push"`
     - Force Push:`git push -f"`
 
-[![E](Images/footer.png 'E')](#content-list)
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 7
 
@@ -221,7 +220,7 @@
 2. **Code - 2 :**`git reset -- "file name"`
 3. Unstaging file successfully
 
-[![E](Images/footer.png 'E')](#content-list)
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 8
 
@@ -237,7 +236,7 @@
 3. Write the following code
    - **Code - 2 :**`git checkout "Hash Code"`
 
-[![E](Images/footer.png 'E')](#content-list)
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 9
 
@@ -273,7 +272,7 @@
 7. Check Branch Status
    - **Code - 6 :**`git branch`
 
-[![E](Images/footer.png 'E')](#content-list)
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 10
 
@@ -311,7 +310,7 @@
 3. Pull from master branch
    - **Code - 3 :**`git pull origin master`
 
-[![E](Images/footer.png 'E')](#content-list)
+[![E](Images/footer.png "E")](#content-list)
 
 #### Tips - 12
 
@@ -342,7 +341,7 @@
    - **Code - 3 :**`git pull`
    - **Force Pull :**`git pull origin master`
 
-[![E](Images/footer.png 'E')](#content-list)
+[![E](Images/footer.png "E")](#content-list)
 
 #### Tips - 13
 
@@ -352,7 +351,7 @@
 
 ##### 🎥 Video Tutorial : **([👉Click Here](https://www.youtube.com/watch?v=KmagW60Li-o))**
 
-[![E](Images/footer.png 'E')](#content-list)
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 14
 
@@ -364,7 +363,7 @@
 
 > #### 🎥 Video Tutorial : **([👉Click Here](https://www.youtube.com/watch?v=jRLGobWwA3Y))**
 
-1. Create a any file in  local repository
+1. Create a any file in local repository
 2. Switch to another or new brance from main branch
    - **Code - 1 :**`git checkout -b newbranch`
 3. Check Branch
@@ -379,8 +378,7 @@
    - **Code - 6 :**`git push origin newbranch`
 8. Now do the following Steps **[👉Click Here](https://www.youtube.com/watch?v=jRLGobWwA3Y)**
 
-
-[![E](Images/footer.png 'E')](#content-list)
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 15
 
@@ -390,18 +388,15 @@
 
 ##### 1️⃣ What is github pages ? : **([👉Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-18))**
 
-##### 2️⃣ (Html - CSS - Javascript) Host a static website  : **([👉Click Here](https://www.youtube.com/watch?v=jRLGobWwA3Y))**
+##### 2️⃣ (Html - CSS - Javascript) Host a static website : **([👉Click Here](https://www.youtube.com/watch?v=jRLGobWwA3Y))**
 
+##### 3️⃣ (Only readme.md) Host a static website : **([👉Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-18))**
 
-##### 3️⃣ (Only readme.md) Host a static website  : **([👉Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-18))**
+##### 4️⃣ (NPM Based) Host a react website : **([👉Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-18))**
 
-
-##### 4️⃣ (NPM Based) Host a react website  : **([👉Click Here](https://phoenixnap.com/kb/how-to-use-git#ftoc-heading-18))**
 > 🍀 **Setup NPM & NodeJs** **([👉Click Here](https://www.youtube.com/watch?v=mIW_8dMQaUk))**
 
-
-[![E](Images/footer.png 'E')](#content-list)
-
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 16
 
@@ -411,32 +406,34 @@
 
 #### 🧐 Committing Ways
 
-| **Basic Way** | **Advanced Way** |
-| --- | --- |
+| **Basic Way**             | **Advanced Way**                         |
+| ------------------------- | ---------------------------------------- |
 | `git commit -m <message>` | `git commit -m <title> -m <description>` |
 
-#### 🥱 Format :  [FEAT] Commit Message 
+#### 🥱 Format : [FEAT] Commit Message
 
-####  ✍️ 6 Steps to Write Better Commit Messages
-
+#### ✍️ 6 Steps to Write Better Commit Messages
 
 ##### 1️⃣ Capitalization & Punctuation
+
 ```Code
 👉 Capitalize the first word and do not use in punctuation end
 👉 Example :
-    ❌❌ adding menu bar. 
-    ✅✅ Adding menu bar  
+    ❌❌ adding menu bar.
+    ✅✅ Adding menu bar
 ```
 
 ##### 2️⃣ Show & Express Your Mood
+
 ```Code
 👉 Use imperative mood in the subject line
 👉 Example :
-    ❌❌ dark mode toggle state 
-    ✅✅ Add fix for dark mode toggle state  
+    ❌❌ dark mode toggle state
+    ✅✅ Add fix for dark mode toggle state
 ```
 
 ##### 3️⃣ Specify The Type of Commit
+
 ```Code
 👉 Use consistent set of words to describe your changes
 👉 Example :
@@ -444,148 +441,160 @@
 ```
 
 ##### 4️⃣ Think like a Journalist
+
 ```Code
 👉 Be direct, try to eliminate filler words and phrases like (like : though, maybe, I think, kind of)
 👉 Example :
-    ❌❌ I added dark mode and maybe it has some issue 
-    ✅✅ Add fix for dark mode toggle state  
+    ❌❌ I added dark mode and maybe it has some issue
+    ✅✅ Add fix for dark mode toggle state
 ```
 
 ##### 5️⃣ Add Emote Start of The Committ
+
 ```Code
 👉 It creates a beautiful expression of the commit
 👉 Example :
-    ❌❌ Add fix for dark mode toggle state 
-    ✅✅ ➕ Add fix for dark mode toggle state  
+    ❌❌ Add fix for dark mode toggle state
+    ✅✅ ➕ Add fix for dark mode toggle state
 ```
 
 ```Code
- ⚠️ NT : Since emojis use special ASCII codes (not commonly used and supported in the text-based interfaces like CLIs) and Unicode systems and most command-line interfaces need a third-party package or font to handle them, this convention might not look good to everyone. They might face some issues in terms of reading histories and checking the commit messages. (Like the emoji character in the message title might be rendered as its actual ASCII code or unknown question marks) 
+ ⚠️ NT : Since emojis use special ASCII codes (not commonly used and supported in the text-based interfaces like CLIs) and Unicode systems and most command-line interfaces need a third-party package or font to handle them, this convention might not look good to everyone. They might face some issues in terms of reading histories and checking the commit messages. (Like the emoji character in the message title might be rendered as its actual ASCII code or unknown question marks)
 ```
 
-
 ##### 6️⃣ Convetional Keyword First
+
 ```Code
 👉 Use a conventional Keyword first : Then explain the commit in detail
 👉 Convetional Keywords like
     - feat , fix , chore
     - update , refactor , remove
-    - docs , style 
+    - docs , style
     - test , build , revert
 👉 Example :
-    ❌❌ fixed bug on landing page 
-    ✅✅ ➕ Fix: fix bug on landing page  
+    ❌❌ fixed bug on landing page
+    ✅✅ ➕ Fix: fix bug on landing page
 ```
 
-[![E](Images/footer.png 'E')](#content-list)
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 17
 
 <h2><span style="color:#A5402D;font-weight:700;font-size:27px">
   ✌️ Git Commit Message Type
-</span></h2> 
+</span></h2>
 
-#### 🥱 Format :  [FEAT] Commit Message 
-
+#### 🥱 Format : [FEAT] Commit Message
 
 #### 1️⃣ Introducing New Features : "feat"
 
-```code 
+```code
     👉 Format : git commit -m "feat: message"
 ```
+
 **✍️ When you add an existing new feature, use 'feat' commit type. It helps team members identify and track significant changes easily.**
 
 <hr>
 
 #### 2️⃣ Fixing Bugs: "fix"
 
-```code 
+```code
     👉 Format : git commit -m "fix: message"
 ```
+
 **✍️ Addressing a bug ? Utlize 'fix' commit type to highlight that the commit resolves an issue or a problem in the repository code base**
 
 <hr>
 
 #### 3️⃣ Miscellaneous Changes: "chore"
 
-```code 
+```code
     👉 Format : git commit -m "chore: message"
 ```
+
 **✍️ For non-feature/non-fix updates like updating dependencies or performing routine tasks, use 'chore' commit type**
 
 <hr>
 
 #### 4️⃣ Code Refactoring : "refactor"
 
-```code 
+```code
     👉 Format : git commit -m "refactor: message"
 ```
+
 **✍️ When you improve the structure or readability of the code without adding features or fixing bugs, use 'refactor' commit type**
 
 <hr>
 
 #### 5️⃣ Documentation Updates: "docs"
 
-```code 
+```code
     👉 Format : git commit -m "docs: message"
 ```
+
 **✍️ Updating project documentation? Whether it's the README or other relevant files , 'docs' commit type keeps the documentation up to date**
 
 <hr>
 
 #### 6️⃣ Code Formatting: "style"
 
-```code 
+```code
     👉 Format : git commit -m "style: message"
 ```
+
 **✍️ For changes that don't affect code behavior but enhance code style or formatting , use 'style' commit type**
 
 <hr>
 
 #### 7️⃣ Testing Updates: "test"
 
-```code 
+```code
     👉 Format : git commit -m "test: message"
 ```
+
 **✍️ When you add or modify tests to ensure code quality and reliability , use 'test' commit type to keep track testing effort**
 
 <hr>
 
 #### 8️⃣ Performance Improvements: "perf"
 
-```code 
+```code
     👉 Format : git commit -m "perf: message"
 ```
+
 **✍️ Did you optimize the code to boost performance? Use 'perf' commit type**
 
 <hr>
 
 #### 9️⃣ Continuous Integration: "ci"
 
-```code 
+```code
     👉 Format : git commit -m "perf: message"
 ```
+
 **✍️ Changes related to continuous integration, such as configuring pipelines or adjusting build process, should use the 'ci' commit type**
 
 <hr>
 
 #### 🔟 Build System Updates: "build"
 
-```code 
+```code
     👉 Format : git commit -m "build: message"
 ```
+
 **✍️ For changes impacting the build system or external dependencies such as package updates or build script modification , use 'build' commit type**
 
 <hr>
 
 #### 1️⃣1️⃣ Reverting Changes: "revert"
 
-```code 
+```code
     👉 Format : git commit -m "revert: message"
 ```
+
 **✍️ Mistakes happen! if you need to undo a previous commit , use 'revert commit type to roll back changes and restore the previous states**
 
-[![E](Images/footer.png 'E')](#content-list)
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 18
 
@@ -593,18 +602,22 @@
  🥹 GitHub Related Problems and Solutions 
 </span></h2>
 
-#####  1️⃣ Problem - 1 : Git Server Connection Error : Fixed
-##### 🕵️ Description: *"Failed to connect to github.com port 443: Connection timed out"* when pushing to remote repository
-* 👉 **Solution** :  Write the following command into GitBash
-  - ```git config --global http.proxy```
-  * ```git config --global --unset https.proxy```
-<hr>
+##### 1️⃣ Problem - 1 : Git Server Connection Error : Fixed
 
-#####  2️⃣ Problem - 2 : Restore a Deleted Repository
+##### 🕵️ Description: _"Failed to connect to github.com port 443: Connection timed out"_ when pushing to remote repository
+
+- 👉 **Solution** : Write the following command into GitBash
+  - `git config --global http.proxy`
+  * `git config --global --unset https.proxy`
+  <hr>
+
+##### 2️⃣ Problem - 2 : Restore a Deleted Repository
+
 ##### 🕵️ Description: Mistakenly deleted an important repository
-* 👉 **Solution** : Blog Link Step By Step **([👉Click Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/restoring-a-deleted-repository))**
 
-[![E](Images/footer.png 'E')](#content-list)
+- 👉 **Solution** : Blog Link Step By Step **([👉Click Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/restoring-a-deleted-repository))**
+
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 19
 
@@ -628,7 +641,7 @@
    - **Code - 4** : `git push origin master`
 7. **Successfully committed with a random date**
 
-[![E](Images/footer.png 'E')](#content-list)
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 20
 
@@ -639,18 +652,18 @@
 #### ✍️ Blog Link Step By Step: **([👉Click Here](https://www.geeksforgeeks.org/what-is-git-ignore-and-how-to-use-it/?ref=lbp))**
 
 #### 👇 What is git-ignore 👇
+
 There are various types of files we might want the git to ignore before committing, for example, the files that are to do with our user settings or any utility setting, private files like passwords and API keys. These files are not of any use to anyone else and we do not want to clutter our git. We can do this with the help of “.gitignore”
 
-
 .gitignore is an auto-generated file inside the project folder that ignores/prevents files to get committed to the local and remote repositories.
+
 #### 👇 Command Line 👇
 
 1. Create **.gitignore** File inside the project folder.
 2. Assume I have files name
-    - a.txt , b.txt , c.txt , text.txt
-   
+   - a.txt , b.txt , c.txt , text.txt
 3. Write the name of the files you want to ignore in the .gitignore text file. Each file name should be written in a new line .
-   - text.txt 
+   - text.txt
 4. Initialize git in your terminal. Add these files to your git repository and commit all the changes with an appropriate message.
    - `git init`
    - `git add .`
@@ -658,22 +671,21 @@ There are various types of files we might want the git to ignore before committi
    - `git push`
 5. Using **Git-Ignore** will not commit the file name text.txt further and commit the rest of files
 
-
 #### 👇 Some common patterns and format for Git-Ignore 👇
 
 - **Blank Line**: A blank line doesn’t refer to any file name, so we can use it to separate two file names for the ease of reading .
 
 - **#**: A line beginning with the # symbol refers to a comment .However if # is used as a pattern then use backslash (“\”) before the # symbol so that it is not misunderstood as a comment.
 
-- **/**: It is used as a directory separator i.e to include directories,  for example webdev/ .
+- **/**: It is used as a directory separator i.e to include directories, for example webdev/ .
 
-- ***.extension_name**: For example *.txt and *.log can be used to match ALL the files that have .txt and .log as their extension respectively.
+- **\*.extension_name**: For example _.txt and _.log can be used to match ALL the files that have .txt and .log as their extension respectively.
 
-- ****/any_name**: It is used to match any file or directory with the name any_name.
+- \***\*/any_name**: It is used to match any file or directory with the name any_name.
 
-- **any_name/****: It is used to match anything that is inside the directory of the name - any_name. for example webdev/** matches all the files inside webdev directory.
+- **any_name/\*\***: It is used to match anything that is inside the directory of the name - any_name. for example webdev/\*\* matches all the files inside webdev directory.
 
-```code 
+```code
 
 # Compiled class file                  // Comment
 *.class                                // Ignore Extension Type
@@ -682,14 +694,13 @@ There are various types of files we might want the git to ignore before committi
 *.log
 
 # Mobile Tools for Java (J2ME)
-.mtj.tmp/                              // Extension Directory Type      
+.mtj.tmp/                              // Extension Directory Type
 
-# Package Files 
+# Package Files
 *.jar
 ```
 
-
-[![E](Images/footer.png 'E')](#content-list)
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 21
 
@@ -702,22 +713,13 @@ There are various types of files we might want the git to ignore before committi
 
 #### 🎶 Add Audio on README.md File: **([👉Click Here](https://www.geeksforgeeks.org/how-to-add-audio-files-on-readme-md-file-in-a-github-repository-from-the-local-system/))**
 
-
 #### 📸 Add Images on README.md File: **([👉Click Here](https://www.geeksforgeeks.org/how-to-add-images-on-readme-md-file-in-a-github-repository-from-the-local-system/))**
 
-
-#### 💃 Add GIFs  on README.md File: **([👉Click Here](https://www.geeksforgeeks.org/how-to-add-gifs-on-readme-md-file-in-a-github-repository/))**
-
+#### 💃 Add GIFs on README.md File: **([👉Click Here](https://www.geeksforgeeks.org/how-to-add-gifs-on-readme-md-file-in-a-github-repository/))**
 
 #### 🧠 Add images and links in Markdown by dragging and dropping in VSCode: **([👉Click Here](https://www.youtube.com/watch?v=jpeh1WorrWM))**
 
-
-
-[![E](Images/footer.png 'E')](#content-list)
-
-
-
-
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 22
 
@@ -725,15 +727,13 @@ There are various types of files we might want the git to ignore before committi
   💁 Contribute to Open Source repository in GitHub
 </span></h2>
 
-#### 📻 Video Guide - Contributing to Open Source  : **([👉Click Here](https://youtu.be/CML6vfKjQss))**
+#### 📻 Video Guide - Contributing to Open Source : **([👉Click Here](https://youtu.be/CML6vfKjQss))**
 
+#### ✍️ Step-by-step guide to contributing on GitHub : **([👉Click Here](https://www.dataschool.io/how-to-contribute-on-github/))**
 
-
-#### ✍️ Step-by-step guide to contributing on GitHub  : **([👉Click Here](https://www.dataschool.io/how-to-contribute-on-github/))**
-#### ✍️ Example Code Overview of Contributing to an existing repository  : **([👉Click Here](https://docs.github.com/en/get-started/using-git/about-git#example-contribute-to-an-existing-repository))**
+#### ✍️ Example Code Overview of Contributing to an existing repository : **([👉Click Here](https://docs.github.com/en/get-started/using-git/about-git#example-contribute-to-an-existing-repository))**
 
 #### 🎥 Video Tutorial - How To Contribute in 3 Minutes : **([👉Click Here](https://youtu.be/jRLGobWwA3Y))**
-
 
 #### 🏠 Open Source BootCamp - Master Open Source Contributions : **([👉Click Here](https://youtube.com/playlist?list=PLinedj3B30sAT6CotNj0iffhRV89SkNK9))**
 
@@ -741,52 +741,50 @@ There are various types of files we might want the git to ignore before committi
 
 #### 🔍 How to Earn with Open Source Contributions : **([👉Click Here](https://youtu.be/9AkfNuc_SZ4))**
 
-
 #### 📭 Open Source Crash Course - Beginner Guide to Open Source : **([👉Click Here](https://youtu.be/o6xikISiz2w?si=WT9JVaWofvedFLtp))**
-
 
 #### ✍️ Open Source Crash Course Notes : **([👉Click Here](https://app.eraser.io/workspace/PaI6tlInajtHXxgdKUiz))**
 
-#### ✍️ Top 10 Mistakes in Open Source Contribution World  : **([👉Click Here](https://youtu.be/3ue4ZE7QBTk?si=79yHk0VRsW1b3Tqm))**
-
-
+#### ✍️ Top 10 Mistakes in Open Source Contribution World : **([👉Click Here](https://youtu.be/3ue4ZE7QBTk?si=79yHk0VRsW1b3Tqm))**
 
 <hr>
 
-
-
 #### 😊 Step 1: Fork The Repository
+
 ###### 🎥 Fork a git repository : **([👉Click Here](https://youtu.be/NZIsGcCtvzw))**
+
 ```code
 ➡️ Find the project's repository on GitHub
 ➡️ Then "fork" it by clicking the Fork button in the upper right corner
 
-This creates a copy of the project repository in your GitHub account. 
+This creates a copy of the project repository in your GitHub account.
 In the upper left corner, you will see that you are now looking at a repository in your account:
 ```
 
 ![](Images/1.png)
 
-
 #### 😏 Step 2: Clone your forked repository
 
-###### 🎥 Clone a repository with GitHub Desktop  : **([👉Click Here](https://youtu.be/PoZNIbs_wx8))**
+###### 🎥 Clone a repository with GitHub Desktop : **([👉Click Here](https://youtu.be/PoZNIbs_wx8))**
+
 ```code
-➡️ While still in your repository, click the green Clone or download button 
+➡️ While still in your repository, click the green Clone or download button
 and then copy the HTTPS URL
 
-Using Git on your local machine, clone your fork using the URL you just copied: 
+Using Git on your local machine, clone your fork using the URL you just copied:
 " git clone URL_OF_FORK "
 ```
 
 ![](Images/2.png)
 
 **Clone** the repository you want to contribute from in your machine ( Copy the repository Link and Write the following code in **Git Bash** )
+
 ```code
 git clone https://github.com/Sumonta056/GitHub-Tutorial.git
 ```
 
 #### 🍔 Step 3: Navigate to Your Local Repository
+
 Since the clone was downloaded into a subdirectory of your working directory, you can navigate to it using:
 
 ```code
@@ -794,14 +792,16 @@ cd GitHub-Tutorial
 ```
 
 #### 🌭 Step 4: Check that your fork is the "origin" remote
+
 You are going to be synchronizing your local repository with both the project repository (on GitHub) and your fork (also on GitHub). The URLs that point to these repositories are called "remotes". More specifically, **the project repository is called the "upstream" remote, and your fork is called the "origin" remote.**
 
-When you cloned your fork, that should have automatically set your fork as the "origin" remote. 
+When you cloned your fork, that should have automatically set your fork as the "origin" remote.
 **Use git remote -v to show your current remotes**
 
 ```code
 git remote -v
 ```
+
 You should see the URL of your fork (which you copied in step 2) next to the word "origin".
 
 If you don't see an "origin" remote, you can add it using: git remote add origin **URL_OF_FORK**.
@@ -819,34 +819,35 @@ git remote add upstream https://github.com/scikit-learn/scikit-learn.git
 ```
 
 #### 🥗 Summary of Step 1 - 5
+
 ![](/Images/3.png)
 
-
-#### 🥪 Step 6:  Pull the latest changes from upstream into your local repository
+#### 🥪 Step 6: Pull the latest changes from upstream into your local repository
 
 Before you start making any changes to your local files, it's a good practice to first synchronize your local repository with the project repository. Use git pull upstream master to "pull" any changes from the "master" branch of the "upstream" into your local repository. (If the project repository uses "main" instead of "master" for its default branch, then you would use git pull upstream main instead.)
 
 ```code
 git pull upstream master
 ```
+
 ```code
 git pull upstream main
 ```
 
 If you forked and cloned the project repository just a few minutes ago, it's very unlikely there will be any changes, in which case Git will report that your local repository is "already up to date". But if there are any changes, they will automatically be merged into your local repository.
 
-
-
-#### 🥩 Step 7:  Create a new branch
+#### 🥩 Step 7: Create a new branch
 
 Rather than making changes to the project's "master" branch, it's a good practice to instead create your own branch. This creates an environment for your work that is isolated from the master branch.
 
 1. **Create a new branch to store any new changes**
+
 ```code
 git branch branch-name
 ```
 
 2. **Switch to that branch you created**
+
 ```code
 git checkout branch-name
 ```
@@ -857,44 +858,44 @@ Use git branch to show your local branches. You should see your new branch as we
 git branch
 ```
 
-#### 🌮 Step 8:  Make changes in your local repository
+#### 🌮 Step 8: Make changes in your local repository
+
 Use a text editor or IDE to make the changes you planned to the files in your local repository. Because you checked out a branch in the previous step, any edits you make will only affect that branch.
 
-
-#### 🍢 Step 9:  Commit your changes
+#### 🍢 Step 9: Commit your changes
 
 After you make a set of changes, use git add . to stage your changes and git commit -m "DESCRIPTION OF CHANGES" to commit them.
-Make changes. For example,  I am creating a two file "file1.md" and "file2.md"
+Make changes. For example, I am creating a two file "file1.md" and "file2.md"
 
 1. **Select the changed files**
+
 ```code
 git add file1.md file2.md
 ```
 
 2. **Take a snapshot of the staging area (anything that's been added)**
+
 ```code
 git commit -m "my snapshot"
 ```
 
 If you are making multiple sets of changes, it's a good practice to make a commit after each set.
 
-
-
 #### 🫕 Step 10: Push your changes
 
 When you are done making all of your changes, upload these changes to your fork using git push origin BRANCH_NAME. This "pushes" your changes to the "BRANCH_NAME" branch of the "origin" (which is your fork on GitHub).
 
 **Use any of the following code of pushing to repository**
+
 ```code
 git push origin branch-name
 ```
+
 ```code
 git push --set-upstream origin my-branch
 ```
 
-
-
-#### 🍪 Step 11:  Begin the pull request
+#### 🍪 Step 11: Begin the pull request
 
 Return to your fork on GitHub, and refresh the page. You may see a highlighted area that displays your recently pushed branch:
 
@@ -904,15 +905,15 @@ Click the green **Compare & pull request** button to begin the pull request.
 
 (Alternatively, if you don't see this highlighted area, you can switch to your branch using the Branch button and then click the New pull request button.)
 
-#### 🥖 Step 12:  Create the pull request
+#### 🥖 Step 12: Create the pull request
 
-###### ✍️ How to create a pull request in GitHub  : **([👉Click Here](https://opensource.com/article/19/7/create-pull-request-github))**
+###### ✍️ How to create a pull request in GitHub : **([👉Click Here](https://opensource.com/article/19/7/create-pull-request-github))**
 
 ###### 🎥 Video Tutorial - How To Pull Request in 3 Minutes : **([👉Click Here](https://youtu.be/jRLGobWwA3Y?t=111))**
 
-#### 🎊 Step 13:  Congratulations!
+#### 🎊 Step 13: Congratulations!
 
-**Congratulations on making your first open source contribution! 🎉** 
+**Congratulations on making your first open source contribution! 🎉**
 
 <hr>
 
@@ -928,6 +929,7 @@ If you're ready to start making code contributions (beyond just fixing typos), h
 #### 🥶 Collaboration with Others
 
 ###### 📺 Video Tutorial : How to do Collaboration **([👉Click Here](https://www.youtube.com/watch?v=nS9QbJt4KaQ))**
+
 ###### 🎥 How to give access permissions of your repository to other **([👉Click Here](https://youtu.be/nS9QbJt4KaQ?t=380))**
 
 <hr>
@@ -939,31 +941,25 @@ If you're ready to start making code contributions (beyond just fixing typos), h
 ###### ❓ What is GitHub Issues? **([👉Click Here](https://youtu.be/6HWw7rhwvtY?si=_tBYe0GAwPU0UgMR))**
 
 ###### 📺 Video Tutorial : How To Create Issue in Repository **([👉Click Here](https://www.youtube.com/watch?v=TKJ4RdhyB5Y))**
+
 ###### 🎥 How To Create Issue Templete in Own Repository **([👉Click Here](https://youtu.be/iCNA_zyawi8?si=wTEk13imWx4LNKz7))**
 
-
 <hr>
-
 
 #### 🤯 Resources for Finding an Open-Source Program Contribution
 
 - **🔍 GitHub Explore : [ 👉 Click Here ](https://github.com/explore/)**
 - **🎁 Up for Grabs : [ 👉 Click Here ](https://up-for-grabs.net/#/)**
 - **🍁 HacktoberFest Projects : [ 👉 Click Here ](https://hacktoberfest.com/participation/)**
-- **🌟 Ovio Projects  : [ 👉 Click Here ](https://ovio.org/project/coder/code-server)**
+- **🌟 Ovio Projects : [ 👉 Click Here ](https://ovio.org/project/coder/code-server)**
 - **🚀 Good First Issues : [ 👉 Click Here ](https://goodfirstissue.dev/)**
 - **🌐 Google Summer of Code : [ 👉 Click Here ](https://summerofcode.withgoogle.com/)**
 - **🌈 Outreachy : [ 👉 Click Here ](https://www.outreachy.org/apply/eligibility/)**
 - **🌌 MLH Fellowship : [ 👉 Click Here ](https://fellowship.mlh.io/)**
-- **🌍 Google For Developers  : [ 👉 Click Here ](https://developers.google.com/)**
+- **🌍 Google For Developers : [ 👉 Click Here ](https://developers.google.com/)**
 - **🌞 GNOME Summer of Code : [ 👉 Click Here ](https://gsoc.gnome.org/#small-contribution)**
 
-
-
-[![E](Images/footer.png 'E')](#content-list)
-
-
-
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 23
 
@@ -973,14 +969,12 @@ If you're ready to start making code contributions (beyond just fixing typos), h
 
 #### 🎥 Tutorial Resolving Merge Conflicts (With Example): **([👉Click Here](https://youtu.be/nfOxUaA2trY))**
 
-
-
 ![](Images/m5.png)
 ![](Images/m6.png)
 ![](Images/m7.png)
 
-
 #### 🤧 What is a Git Merge Conflict?
+
 A merge conflict is an event that takes place when Git is unable to automatically resolve differences in code between two commits. Git can merge the changes automatically only if the commits are on different lines or branches.
 
 The following is an example of how a Git merge conflict works:
@@ -993,8 +987,8 @@ To prevent such conflicts, developers work in separate isolated branches. The Gi
 
 #### ✍️ Step by Step Blog to Resolve Merge Conflicts : **([👉Click Here](https://www.freecodecamp.org/news/how-to-fix-merge-conflicts-in-git/))**
 
-
 ![](Images/m3.png)
+
 #### 🍂 Some Git Commands to Resolve Merge Conflicts
 
 ```code
@@ -1003,22 +997,22 @@ To prevent such conflicts, developers work in separate isolated branches. The Gi
 ```
 
 ```code
-  👉 Format : git diff 
+  👉 Format : git diff
   ✍️ This command helps to identify the differences between the states repositories or file
 ```
 
 ```code
-  👉 Format : git checkout 
+  👉 Format : git checkout
   ✍️ This command is used to undo the changes made to the file, or for changing branches..
 ```
 
 ```code
-  👉 Format : git reset --mixed 
+  👉 Format : git reset --mixed
   ✍️ This command is used to undo changes to the working directory and staging area
 ```
 
 ```code
-  👉 Format : git reset --mixed 
+  👉 Format : git reset --mixed
   ✍️ This command helps in exiting the merge process and returning back to the state before the merging began.
 ```
 
@@ -1029,54 +1023,56 @@ To prevent such conflicts, developers work in separate isolated branches. The Gi
 
 ```code
   👉 Format : git status
-  ✍️ This command displays the current state of the working directory and the repository. 
+  ✍️ This command displays the current state of the working directory and the repository.
   ✍️ It shows which files are modified, untracked, or staged for commit.
 ```
 
-
 ```code
   👉 Format : cd documentss
-  ✍️ 'cd' is used to change the current working directory in the command line.. 
+  ✍️ 'cd' is used to change the current working directory in the command line..
 ```
+
 ```code
   👉 Format : cat file.txt
-  ✍️ 'cat' stands for "concatenate" and is used to display the contents of a file.. 
+  ✍️ 'cat' stands for "concatenate" and is used to display the contents of a file..
 ```
+
 ```code
   👉 Format : vi example.txt
-  ✍️ 'vi' is a text editor available on Unix-like operating systems. 
+  ✍️ 'vi' is a text editor available on Unix-like operating systems.
   ✍️ It allows you to create and edit files from the command line.
 ```
+
 ```code
   👉 Format : git rebase origin master
-  ✍️ This command is used to reapply commits on top of another branch 
-  (usually master) to incorporate changes and keep a linear commit history.. 
+  ✍️ This command is used to reapply commits on top of another branch
+  (usually master) to incorporate changes and keep a linear commit history..
 ```
+
 ```code
   👉 Format : git rebase --abort
-  ✍️ This command aborts an ongoing rebase operation, 
-  reverting the repository back to its original state before the rebase. 
+  ✍️ This command aborts an ongoing rebase operation,
+  reverting the repository back to its original state before the rebase.
 ```
+
 ```code
   👉 Format : git merge branch-name
-  ✍️ This command merges changes from one branch into another. 
+  ✍️ This command merges changes from one branch into another.
 ```
+
 ```code
   👉 Format : git mergetool
   ✍️ This command launches a merge resolution tool
-   to help resolve conflicts during a merge or rebase. 
+   to help resolve conflicts during a merge or rebase.
 ```
+
 ```code
   👉 Format : git rebase --continue
-  ✍️ This command continues a rebase operation after 
+  ✍️ This command continues a rebase operation after
   resolving conflicts in the conflicted files.
 ```
 
-
-[![E](Images/footer.png 'E')](#content-list)
-
-
-
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 24
 
@@ -1104,16 +1100,18 @@ git commit --amend
 Press ESC
 ```
 
-4. **✍️ To Edit the Message** 
+4. **✍️ To Edit the Message**
 
 ```bash
  Press I
 ```
 
 5. **✍️ Now you can edit the Last Pushed Git Commit Message. After edit do this :**
+
 ```bash
 Press ESC
 ```
+
 ```bash
 Press SHIFT + Z + Z
 ```
@@ -1128,17 +1126,15 @@ git push -f
 
 <hr>
 
-
-
 #### 🍂 Edit The ⭐ Any ⭐ Pushed Git Commit Message **([👉Tutorial](https://youtu.be/BNF4le5X1Ms?si=B4OqcrJ3Ojj5al_J) )**
 
 1. **✍️ Open Git Terminal of Your Project**
 
 ```bash
-git rebase -i HEAD~5  
+git rebase -i HEAD~5
 ```
-[Here 5 = How Many last commit you want to see]
 
+[Here 5 = How Many last commit you want to see]
 
 2. **✍️ New Window will open where in top you see the all last commit message upto 5**
 
@@ -1149,32 +1145,39 @@ Press ESC
 ```
 
 4. **✍️ You will see "PICK" key word before your desire commit mesaage**
+
 ```bash
 Press I
 ```
 
 5. **✍️ Modify the "PICK" keyword to "Edit". After modifying do this :**
+
 ```bash
 Press ESC
 ```
+
 ```bash
 Press SHIFT + Z + Z
 ```
 
 6. **✍️ Now write the following command**
+
 ```bash
 git commit --amend
 ```
-7. **✍️ To Edit The Last Selected Message** 
+
+7. **✍️ To Edit The Last Selected Message**
 
 ```bash
  Press I
 ```
 
 8. **✍️ Now you can edit the selected Pushed Git Commit Message. After edit do this :**
+
 ```bash
 Press ESC
 ```
+
 ```bash
 Press SHIFT + Z + Z
 ```
@@ -1188,10 +1191,11 @@ git push -f
 10. **✍️ Now write the following command**
 
 ```bash
-git push origin HEAD:main 
+git push origin HEAD:main
 
 git branch -M main
 ```
+
 ```bash
 git rebase --continue
 ```
@@ -1204,9 +1208,7 @@ git push -f
 
 12. **🥳 Successfully Updated the Selected Commit Message**
 
-[![E](Images/footer.png 'E')](#content-list)
-
-
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 25
 
@@ -1214,11 +1216,9 @@ git push -f
     🫀 How to Roll Back ( Git Reset vs Revert ) a Git Repository to a Particular Commit 
 </span></h2>
 
-
 #### ✍️ Blog Guide Step by Step Git Reset: **([👉Click Here](https://linuxhint.com/roll-back-reset-git-repository-to-particular-commit/) )**
 
 #### 🎥 Video Tutorial Git Revert vs Reset: **([👉Click Here](https://www.youtube.com/watch?v=IWR24Z1yp80) )**
-
 
 <hr>
 
@@ -1250,6 +1250,7 @@ git log --oneline
 ```
 
 ###### 👉 Step - 2 : Choose a particular commit and its copy SHA-hash
+
 ![Alt text](image.png)
 
 **We have selected the “Files added” commit, whose hash value is “9bd11a3”**
@@ -1270,10 +1271,10 @@ git push origin main
 
 ###### 🍭 Step - 5 : Successfully Reset to Particular Commit
 
-
 <hr>
 
 ### ⚠️ Revert Only Works for Public/Remote Commits
+
 #### 😮‍💨 How to Revert a Git Repository to a Specific Commit **([👉Tutorial](https://youtu.be/IWR24Z1yp80?t=492) )**
 
 ###### 👉 Step - 1 : View and Check Git Commit History
@@ -1283,11 +1284,12 @@ git log --oneline
 ```
 
 ###### 👉 Step - 2 : Choose a particular commit and its copy SHA-hash
+
 ![Alt text](image.png)
 
 **We have selected the “Files added” commit, whose hash value is “9bd11a3”**
 
-###### 👉 Step - 3 : Revert to Particular Commit 
+###### 👉 Step - 3 : Revert to Particular Commit
 
 ```bash
 git revert 9bd11a3
@@ -1306,9 +1308,7 @@ Type ":wq"
 
 ###### 🍭 Step - 5 : Successfully Revert to Particular Commit
 
-
-[![E](Images/footer.png 'E')](#content-list)
-
+[![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 26
 
@@ -1316,9 +1316,22 @@ Type ":wq"
     🤕 Ignore Files Using : .gitignore (How to use the gitignore file)
 </span></h2>
 
-
 #### 🎥 How to Ignore Different File in Git Ignore : **([👉 Video Link](https://youtu.be/1Qk8jrBrp9o?t=136) )**
 
 #### ✍️ Prebuilt .gitIgnore Files for Different Language Projects: **([👉Click Here](https://github.com/github/gitignore) )**
 
-[![E](Images/footer.png 'E')](#content-list)
+[![E](Images/footer.png "E")](#content-list)
+
+### Tips - 27
+
+<h2><span style="color:#5E3E;font-weight:700;font-size:30px">
+    🦖 Tutorial : Documentation of GitHub Readme
+</span></h2>
+
+#### ✍️ Awesome GitHub Profile README (GitHub + Website) : **([👉Click Here](https://github.com/abhisheknaiidu/awesome-github-profile-readme) )**
+
+#### ✍️ Cools GIF For GitHub Readme : **([👉Click Here](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md) )**
+
+#### ✍️ Github Readme Activity Graph : **([👉Click Here](https://github.com/Ashutosh00710/github-readme-activity-graph) )**
+
+[![E](Images/footer.png "E")](#content-list)
