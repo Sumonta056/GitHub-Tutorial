@@ -1334,4 +1334,8 @@ Type ":wq"
 
 #### ✍️ Github Readme Activity Graph : **([👉Click Here](https://github.com/Ashutosh00710/github-readme-activity-graph) )**
 
+#### ✍️ Github Readme Table Style : **([👉Click Here](https://github.com/milaan9/milaan9/blob/main/README.md) )**
+
+#### ✍️ All GitHub Readme Stats (All in One): **([👉Click Here](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md) )**
+
 [![E](Images/footer.png "E")](#content-list)
