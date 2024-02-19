@@ -50,8 +50,10 @@
   - **[ 🫁 How to Reset a Git Repository to a Specific Commit](#tips---25)**
   - **[ 😮‍💨 How to Revert a Git Repository to a Specific Commit](#tips---25)**
 - **[ 🤕 Ignore Files Using : .gitignore (How to use the gitignore file) ](#tips---26)**
-- **[ 🦖 Tutorial : Documentation of GitHub Readme) ](#tips---27)**
+- **[ 🦖 Tutorial : Documentation of GitHub Readme + Markdown Language ](#tips---27)**
+- **[ 🫸 Push an existing Git repository to a different remote repository server? ](#tips---28)**
 
+    
 <hr>
 
 ### Tips - 1
@@ -1331,6 +1333,7 @@ Type ":wq"
 ```
  git add README.md
 ```
+
 > **Learn Markdown Langaue**
 
 #### ✍️ Markdown Language Documenation Learning (Mine) : **([👉Click Here](./Readme/Readme_Documentation.md) )**
@@ -1377,8 +1380,36 @@ Type ":wq"
 
 ### Tips - 28
 
-<h2><span style="color:#5E3E;font-weight:700;font-size:30px">
-    🦖 Push an existing Git repository to a different remote repository server?
+<h2><span style="color:#53E;font-weight:700;font-size:30px">
+    🫸 Push an existing Git repository to a different remote repository server?
 </span></h2>
 
-#### ✍️ Awesome GitHub Profile README (GitHub + Website) : **([👉Click Here](https://github.com/abhisheknaiidu/awesome-github-profile-readme) )**
+#### ✍️ Stackoverflow - Push an existing Git repository : **([👉Click Here](https://stackoverflow.com/questions/5181845/git-push-existing-repo-to-a-new-and-different-remote-repo-server) )**
+
+1. Create a new repo at GitHub.
+
+2. Navigate to your local Git repository in your terminal.
+
+```bash
+cd /path/to/your/repoin
+```
+
+3. Rename the original remote to 'upstream'.
+
+```bash
+git remote rename origin upstream
+```
+
+4. Add the new GitHub repo as 'origin'.
+
+```bash
+git remote add origin URL_TO_NEW_GITHUB_REPO
+```
+
+5. Push the changes to the new 'origin' remote repository.
+
+```bash
+git push origin main
+```
+
+[![E](Images/footer.png "E")](#content-list)
