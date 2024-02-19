@@ -1285,7 +1285,7 @@ git log --oneline
 
 ###### 👉 Step - 2 : Choose a particular commit and its copy SHA-hash
 
-![Alt text](image.png)
+![Alt text](./Images/image1.png)
 
 **We have selected the “Files added” commit, whose hash value is “9bd11a3”**
 
@@ -1325,17 +1325,60 @@ Type ":wq"
 ### Tips - 27
 
 <h2><span style="color:#5E3E;font-weight:700;font-size:30px">
-    🦖 Tutorial : Documentation of GitHub Readme
+    🦖 Tutorial : Documentation of GitHub Readme + Markdown Language
+</span></h2>
+
+```
+ git add README.md
+```
+> **Learn Markdown Langaue**
+
+#### ✍️ Markdown Language Documenation Learning (Mine) : **([👉Click Here](./Readme/Readme_Documentation.md) )**
+
+#### 🎥 Markdown Clean Sheet : **([👉Click Here](https://youtu.be/ECuqb5Tv9qI) )**
+
+#### ✍️ Learn Markdown Language with Practice Test : **([👉Click Here](https://www.markdowntutorial.com/) )**
+
+#### ✍️ Narkdown Guide Advance Level Everything : **([👉Click Here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) )**
+
+<hr>
+
+> **Readme Design Tools Advance**
+
+##### ✍️ Readme Table Basic Rules : **([👉Click Here](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables#creating-a-table) )**
+
+##### ✍️ Github Readme Table Style : **([👉Click Here](https://github.com/milaan9/milaan9/blob/main/README.md) )**
+
+##### ✍️ Cools GIF For GitHub Readme : **([👉Click Here](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md) )**
+
+<hr>
+
+> **GitHub Profile Readme Design Tools and Useful Website**
+
+##### 🎥 Design Your GitHub Profile : **([👉Click Here](https://www.youtube.com/watch?v=KhGWbt1dAKQ) )**
+
+##### ✍️ Awesome GitHub Profile README (GitHub + Website) : **([👉Click Here](https://github.com/abhisheknaiidu/awesome-github-profile-readme) )**
+
+##### ✍️ Github Readme Activity Graph : **([👉Click Here](https://github.com/Ashutosh00710/github-readme-activity-graph) )**
+
+##### ✍️ All GitHub Readme Stats (All in One): **([👉Click Here](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md) )**
+
+##### 🛺 GitHub Readme Profile Generator 1: **([👉Click Here](https://arturssmirnovs.github.io/github-profile-readme-generator/) )**
+
+##### 🛺 GitHub Readme Profile Generator 2: **([👉Click Here](https://rahuldkjain.github.io/gh-profile-readme-generator/) )**
+
+##### 🛺 GitHub Readme Profile Generator 3: **([👉Click Here](https://profile-readme-generator.com/) )**
+
+##### 🛺 GitHub Readme Profile Generator 4: **([👉Click Here](https://gprm.itsvg.in/) )**
+
+##### ✍️ Beautify GitHub Profile ( Everything - Badges - Widgets - Icons - Profile Generators) : **([👉Click Here](https://github.com/rzashakeri/beautify-github-profile?tab=readme-ov-file#-icons-) )**
+
+[![E](Images/footer.png "E")](#content-list)
+
+### Tips - 28
+
+<h2><span style="color:#5E3E;font-weight:700;font-size:30px">
+    🦖 Push an existing Git repository to a different remote repository server?
 </span></h2>
 
 #### ✍️ Awesome GitHub Profile README (GitHub + Website) : **([👉Click Here](https://github.com/abhisheknaiidu/awesome-github-profile-readme) )**
-
-#### ✍️ Cools GIF For GitHub Readme : **([👉Click Here](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md) )**
-
-#### ✍️ Github Readme Activity Graph : **([👉Click Here](https://github.com/Ashutosh00710/github-readme-activity-graph) )**
-
-#### ✍️ Github Readme Table Style : **([👉Click Here](https://github.com/milaan9/milaan9/blob/main/README.md) )**
-
-#### ✍️ All GitHub Readme Stats (All in One): **([👉Click Here](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md) )**
-
-[![E](Images/footer.png "E")](#content-list)
