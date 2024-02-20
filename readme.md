@@ -1376,6 +1376,15 @@ Type ":wq"
 
 ##### ✍️ Beautify GitHub Profile ( Everything - Badges - Widgets - Icons - Profile Generators) : **([👉Click Here](https://github.com/rzashakeri/beautify-github-profile?tab=readme-ov-file#-icons-) )**
 
+> **Automation Update Using GitHub Action and Workflows**
+
+##### ✍️ Dev Metrics in Readme (Simple) : **([👉Click Here](https://github.com/athul/waka-readme) )**
+
+##### ✍️ Dev Metrics in Readme with added feature flags 🎌 : **([👉Click Here](https://github.com/anmol098/waka-readme-stats) )**
+
+##### ✍️ Blog post workflow : **([👉Click Here](https://github.com/gautamkrishnar/blog-post-workflow) )**
+
+
 [![E](Images/footer.png "E")](#content-list)
 
 ### Tips - 28
