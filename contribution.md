@@ -51,11 +51,7 @@ Before making any changes, create a new branch:
 git checkout -b your-branch-name
 ```
 
-```bash
-
-```
-
-### How to Contribute
+## How to Contribute
 
 #### Adding New Features or Fixing Bugs
 
@@ -100,7 +96,7 @@ git checkout -b your-branch-name
 4. Ensure your branch has no merge conflicts with the main branch.
 5. A project maintainer will review your PR. You may be asked to make additional changes.
 
-### Style Guides
+## Style Guides
 
 #### Code Style
 
@@ -109,18 +105,22 @@ git checkout -b your-branch-name
 - Maintain consistent indentation and formatting.
 
 #### Commit Messages
+
 - Use the present tense ("Add feature" not "Added feature").
 - Keep messages concise and informative.
 - Reference issues and pull requests liberally.
 
 #### Documentation
+
 - Write clear, concise, and helpful documentation.
 - Use proper markdown syntax for formatting.
 
 #### Reporting Issues
+
 If you encounter a bug, have a question, or want to suggest an enhancement, please open an issue. When creating an issue, please include as much detail as possible.
 
 #### Community and Support
+
 Join our community to ask questions, share ideas, and get support:
 
 - GitHub Discussions
